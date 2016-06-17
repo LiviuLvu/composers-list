@@ -4,22 +4,23 @@
 		<meta charset="utf-8">
 		<title>Composers List</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.css">
-		<link rel="stylesheet" href="css/style.css">
+
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css">
 	</head>
 	<body>
-
-	<!-- list to be populated with jQuery and manipulated with filter.js -->
-	<ul class="list">
-	    <li>
-	    	<h3 class="name"></h3>
-	    	<p class="city"></p>
-	    </li>
-	</ul>
+	<div class="container">
+		<h4>Classical Composers List</h4>
+		<!-- button to request data transfer -->
+		<button id="get-data">Get JSON data</button>
+		<!-- list to be populated with jQuery and manipulated with filter.js -->
+		<ul id="show-data">
+	    	<!-- display data from json file here-->
+		</ul>
+	</div>
 
 
 	<script   src="https://code.jquery.com/jquery-3.0.0.js"   integrity="sha256-jrPLZ+8vDxt2FnE1zvZXCkCcebI/C8Dt5xyaQBjxQIo="   crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.2.0/list.min.js"></script>
-	<script src="js/main.js"></script>
+	<script src="js/jsonTest.js"></script>
 </body>
 </html>
