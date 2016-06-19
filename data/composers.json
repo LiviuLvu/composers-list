@@ -1,353 +1,351 @@
-{
-   "composers": [{
-      "name": "Johann Sebastian Bach",
-      "born": "3/21/1685",
-      "died": "7/28/1750",
-      "nationality": "German",
-      "profile": "Johann Sebastian Bach was born on March 21, 1685. A prolific German composer and organist, his sacred and secular works for choir, orchestra and solo instruments drew together the strands of the baroque genre and brought it to its ultimate maturity. Although he introduced no new forms, he enriched the prevailing German style with a robust contrapuntal technique, a control of harmonic and motivic organisation from the smallest to the largest scales, and the adaptation of rhythms and textures from abroad, particularly Italy and France. Many people consider him to be the greatest Baroque composer, and one of the greatest composers of all time. \n Revered for their intellectual depth, technical command and artistic beauty, JS Bach's works include the Brandenburg concertos, the keyboard suites and partitas, the Mass in B Minor, the St. Matthew Passion, The Musical Offering, The Art of Fugue and a large number of cantatas, of which about 220 survive. He died on July 28, 1750. \n He was the father of three sons - Carl Philipp Emanuel Bach, Johann Christian Bach and Wilhelm Friedemann Bach.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Wolfgang Theophilus Mozart",
-      "born": "1/27/1756",
-      "died": "12/5/1791",
-      "nationality": "Austrian",
-      "profile": "Wolfgang Amadeus Mozart was born on January 27, 1756. He was a prolific and highly influential composer of Classical music. His enormous output of more than six hundred compositions includes works that are widely acknowledged as pinnacles of symphonic, chamber, piano, operatic, and choral music. Mozart is among the most enduringly popular of European composers, and many of his works are part of the standard concert repertoire. He died on December 5, 1791. \n Wolfgang Amadeus Mozart is the son of Leopold Mozart.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Ludwig van Beethoven",
-      "born": "12/15/1770",
-      "died": "3/26/1827",
-      "nationality": "German",
-      "profile": "German composer and pianist, born in 1770 (baptized 17 December 1770) in Bonn, Germany and died 26 March 1827 in Vienna, Austria. \n Beethoven was the eldest son of a singer in the Kapelle of the Archbishop-Elector of Cologne and grandson of the Archbishop's Kapellmeister. He moved in 1792 to Vienna, where he had some lessons from Haydn and others, quickly establishing himself as a remarkable keyboard-player and original composer. By 1815 increasing deafness made public performance impossible and accentuated existing eccentricities of character, patiently tolerated by a series of rich patrons and his royal pupil the Archduke Rudolph. \n Beethoven did much to enlarge the possibilities of music and widen the horizons of later generations of composers. To his contemporaries he was sometimes a controversial figure, making heavy demands on listeners both by the length and by the complexity of his writing, as he explored new fields of music.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Wilhelm Richard Wagner",
-      "born": "5/22/1813",
-      "died": "2/13/1883",
-      "nationality": "German",
-      "profile": "German composer, theatre director, polemicist, and conductor of the romantic period, born in Leipzig, Germany, May 22 1813 - died in Venice, Italy, February 13 1883. He is primarily known for his operas. Father of Siegfried Wagner, grandfather of Wieland Wagner, Friedelind Wagner and Wolfgang Wagner",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Joseph Haydn",
-      "born": "3/31/1732",
-      "died": "5/31/1809",
-      "nationality": "Austrian",
-      "profile": " A prominent and prolific Austrian composer of the Classical period. He was instrumental in the development of chamber music such as the piano trio and his contributions to musical form have earned him the epithets \"Father of the Symphony\" and \"Father of the String Quartet\". \n Haydn spent much of his career as a court musician for the wealthy Esterházy family at their remote estate. Until the later part of his life, this isolated him from other composers and trends in music so that he was, as he put it, \"forced to become original\". Yet his music circulated widely and for much of his career he was the most celebrated composer in Europe. \n Joseph Haydn, a friend and mentor of Mozart, and teacher of Beethoven, was the older brother of composer Michael Haydn.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Johannes Brahms",
-      "born": "5/7/1833",
-      "died": "4/3/1897",
-      "nationality": "German",
-      "profile": "The music of Johannes Brahms represents the furthest development of one strain of Nineteenth-Century Romanticism. Broadly speaking, one can distinguish five lines of development: the Beethoven-Mendelssohn-Schumann-Brahms; Liszt-Wagner-Bruckner-Strauss; folk-lore nationalism; Italian opera; and French, both operatic and symphonic. Some of this overlaps, of course. One can view Brahms, for example, with his deep artistic attachment to German folklore and older music, as a German nationalist.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Franz Peter Schubert",
-      "born": "1/31/1797",
-      "died": "11/19/1828",
-      "nationality": "Austrian",
-      "profile": "Schubert died before his 32nd birthday, but was extremely prolific during his lifetime. His output consists of over six hundred secular vocal works (mainly Lieder), seven complete symphonies, sacred music, operas, incidental music and a large body of chamber and piano music. Appreciation of his music while he was alive was limited to a relatively small circle of admirers in Vienna, but interest in his work increased significantly in the decades following his death. Felix Mendelssohn, Robert Schumann, Franz Liszt, Johannes Brahms and other 19th-century composers discovered and championed his works. Today, Schubert is ranked among the greatest composers of the late Classical and early Romantic eras and is one of the most frequently performed composers of the early nineteenth century.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Robert Alexander Schumann",
-      "born": "6/8/1810",
-      "died": "7/29/1856",
-      "nationality": "German",
-      "profile": "German composer, pianist, aesthete and influential music critic from the Romantic era, born 8 June 1810 in Zwickau, Germany and died 29 July 1856 in Endenich/Bonn, Germany. He was married to Clara Schumann.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Georg Friedrich Händel",
-      "born": "2/23/1685",
-      "died": "4/14/1759",
-      "nationality": "German",
-      "profile": "A German, later British baroque composer who spent the bulk of his career in London, becoming well known for his operas, oratorios, anthems, and organ concertos. Handel received critical training in Halle, Hamburg and Italy before settling in London in 1712; he became a naturalised British subject in 1727. He was strongly influenced both by the great composers of the Italian Baroque and the middle-German polyphonic choral tradition.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Piotr Illitch Tchaïkovsky",
-      "born": "5/7/1840",
-      "died": "11/6/1893",
-      "nationality": "Russian",
-      "profile": "Composer of the late-Romantic period, some of whose works are among the most popular music in the classical repertoire. He was the first Russian composer whose music made a lasting impression internationally, bolstered by his appearances as a guest conductor in Europe and the United States. Tchaikovsky was honored in 1884, by Emperor Alexander III, and awarded a lifetime pension.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Felix Mendelssoh",
-      "born": "2/3/180artholdy",
-      "died": "11/4/1847",
-      "nationality": "German",
-      "profile": "A grandson of the philosopher Moses Mendelssohn, Felix Mendelssohn was born into a prominent Jewish family. He was brought up without religion until the age of seven, when he was baptised as a Reformed Christian. Mendelssohn was recognised early as a musical prodigy, but his parents were cautious and did not seek to capitalise on his talent. \n Mendelssohn enjoyed early success in Germany, where he also revived interest in the music of Johann Sebastian Bach, and in his travels throughout Europe. He was particularly well received in Britain as a composer, conductor and soloist, and his ten visits there – during which many of his major works were premiered – form an important part of his adult career. His essentially conservative musical tastes, however, set him apart from many of his more adventurous musical contemporaries such as Franz Liszt, Richard Wagner and Hector Berlioz. The Leipzig Conservatoire (now the University of Music and Theatre Leipzig), which he founded, became a bastion of this anti-radical outlook.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Antonín Dvořák",
-      "born": "9/8/1841",
-      "died": "5/1/1904",
-      "nationality": "Czech",
-      "profile": "Dvořák displayed his musical gifts at an early age, being an apt violin student from age six. The first public performances of his works were in Prague in 1872 and, with special success, in 1873, when he was age 31. Seeking recognition beyond the Prague area, he first submitted a score of his First Symphony to a prize competition in Germany, but he did not win, and the manuscript, not returned, was lost until rediscovered many decades later. Then in 1874 he first made a submission for the Austrian State Prize for Composition, including scores of two further symphonies and other works. Brahms, unbeknownst to Dvořák, was the leading member of the jury and was highly impressed. The prize was awarded to Dvořák for 1874[a] and again in 1876 and in 1877, when Brahms and the prominent critic Eduard Hanslick, also a member of the jury, made themselves known to him. Brahms recommended Dvořák to his publisher, Simrock, who soon afterward commissioned what became the Slavonic Dances, Op. 46. These were highly praised by the Berlin music critic Louis Ehlert in 1878, the sheet music (of the original piano 4-hands version) had excellent sales, and Dvořák’s international reputation at last was launched.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Franz Liszt",
-      "born": "10/22/1811",
-      "died": "7/31/1886",
-      "nationality": "Hungarian",
-      "profile": "Liszt gained renown in Europe during the early nineteenth century for his prodigious virtuosic skill as a pianist. He was said by his contemporaries to have been the most technically advanced pianist of his age, and in the 1840s he was considered to be the greatest pianist in history. However, Liszt himself stated that Charles-Valentin Alkan had superior technique to his own. Liszt was also a well-known and influential composer, piano teacher and conductor. He was a benefactor to other composers, including Frédéric Chopin, Richard Wagner, Hector Berlioz, Camille Saint-Saëns, Edvard Grieg, Ole Bull and Alexander Borodin.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Frédéric Chopin",
-      "born": "3/1/1810",
-      "died": "10/17/1849",
-      "nationality": "Polish",
-      "profile": "Virtuoso pianist of the Romantic era who wrote primarily for the solo piano. He gained and has maintained renown worldwide as a leading musician of his era, whose \"poetic genius was based on a professional technique that was without equal in his generation.\"[1] Chopin was born in what was then the Duchy of Warsaw and grew up in Warsaw, which in 1815 became part of Congress Poland. A child prodigy, he completed his musical education and composed his earlier works in Warsaw before leaving Poland at the age of 20, less than a month before the outbreak of the November 1830 Uprising. \n Chopin's music, his status as one of music's earliest superstars, his association (if only indirect) with political insurrection, his love life and his early death have made him a leading symbol of the Romantic era in the public consciousness. His works remain popular, and he has been the subject of numerous films and biographies of varying degrees of historical accuracy.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Igor Stravinsky",
-      "born": "6/17/1882",
-      "died": "4/6/1971",
-      "nationality": "Russian",
-      "profile": "Igor Fyodorovich Stravinsky was a very famous and talented composer of the 20th century. Born to musician parents, his father, Fyodor was a bass singer and his mother, Anna, was a very skilled pianist. Not wanting their son to follow in their footsteps, they asked him to go into law after having finished his secondary school. Once he was in the university, Vladimir Rimsky-Korsakov, son of a very renowned composer became his mentor after Stravinsky got an invitation to join him. His father died in the year 1902 and that is when Stravinsky decided that he wanted to have a career in music composition.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Giuseppe Verdi",
-      "born": "10/9/1813",
-      "died": "1/27/1901",
-      "nationality": "Italian",
-      "profile": "Verdi was born near Busseto to a provincial family of moderate means, and developed a musical education with the help of a local patron. Verdi came to dominate the Italian opera scene after the era of Bellini, Donizetti and Rossini, whose works significantly influenced him, becoming one of the pre-eminent opera composers in history. \n In his early operas Verdi demonstrated a sympathy with the Risorgimento movement which sought the unification of Italy. He also participated briefly as an elected politician. The chorus \"Va, pensiero\" from his early opera Nabucco (1842), and similar choruses in later operas, were much in the spirit of the unification movement, and the composer himself became esteemed as a representative of these ideals. An intensely private person, Verdi however did not seek to ingratiate himself with popular movements and as he became professionally successful was able to reduce his operatic workload and sought to establish himself as a landowner in his native region. He surprised the musical world by returning, after his success with the opera Aida (1871), with three late masterpieces: his Requiem (1874), and the operas Otello (1887) and Falstaff (1893). \n His operas remain extremely popular, especially the three peaks of his 'middle period': Rigoletto, Il trovatore and La traviata, and the bicentenary of his birth in 2013 was widely celebrated in broadcasts and performances.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Gustav Mahler",
-      "born": "7/7/1860",
-      "died": "5/18/1911",
-      "nationality": "Austrian",
-      "profile": "Gustav Mahler was a late-Romantic Austrian-Bohemian composer and one of the leading conductors of his generation. As a composer, he acted as a bridge between the 19th century Austro-German tradition and the modernism of the early 20th century. While in his lifetime his status as a conductor was established beyond question, his own music gained wide popularity only after periods of relative neglect which included a ban on its performance in much of Europe during the Nazi era. After 1945 the music was discovered and championed by a new generation of listeners; Mahler then became one of the most frequently performed and recorded of all composers, a position he has sustained into the 21st century.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Sergei Sergeyevich Prokofiev",
-      "born": "4/27/1891",
-      "died": "3/5/1953",
-      "nationality": "Russian",
-      "profile": "Ukrainian-born Russian composer (born 1891 in Sontsovka, Russian Empire (now in Donetsk oblast, Ukraine) - died 1953 in Moscow, USSR). He mastered numerous musical genres and came to be admired as one of the greatest composers of the 20th century. Alternative transliterations of his name include Sergey, Sergej or Serge, and Prokofief, Prokofieff or Prokofiew.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Dmitri Shostakovich",
-      "born": "9/25/1906",
-      "died": "8/9/1975",
-      "nationality": "Russian",
-      "profile": "A Soviet composer and pianist, and a prominent figure of 20th-century music. \n Shostakovich achieved fame in the Soviet Union under the patronage of Soviet chief of staff Mikhail Tukhachevsky, but later had a complex and difficult relationship with the government. Nevertheless, he received accolades and state awards and served in the Supreme Soviet of the RSFSR (1947–1962) and the Supreme Soviet of the Soviet Union (from 1962 until his death). \n A poly-stylist, Shostakovich developed a hybrid voice, combining a variety of different musical techniques into his music. Shostakovich's music is characterized by sharp contrasts, elements of the grotesque, and ambivalent tonality; the composer was also heavily influenced by the neo-classical style pioneered by Igor Stravinsky, and (especially in his symphonies) by the post-Romanticism associated with Gustav Mahler.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Richard Strauss",
-      "born": "6/11/1864",
-      "died": "9/8/1949",
-      "nationality": "German",
-      "profile": "A leading German composer of the late Romantic and early modern eras. He is known for his operas, which include Der Rosenkavalier, Elektra, Die Frau ohne Schatten and Salome; his Lieder, especially his Four Last Songs; his tone poems, including Don Juan, Death and Transfiguration, Till Eulenspiegel's Merry Pranks, Also sprach Zarathustra, Ein Heldenleben, Symphonia Domestica, and An Alpine Symphony; and other instrumental works such as Metamorphosen and his Oboe Concerto. Strauss was also a prominent conductor throughout Germany and Austria. \n Strauss, along with Gustav Mahler, represents the late flowering of German Romanticism after Richard Wagner, in which pioneering subtleties of orchestration are combined with an advanced harmonic style.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Hector Berlioz",
-      "born": "12/11/1803",
-      "died": "3/8/1869",
-      "nationality": "French",
-      "profile": "French Romantic composer, best known for his compositions Symphonie fantastique and Grande messe des morts (Requiem). Berlioz made significant contributions to the modern orchestra with his Treatise on Instrumentation. He specified huge orchestral forces for some of his works, and conducted several concerts with more than 1,000 musicians. He also composed around 50 songs. His influence was critical for the further development of Romanticism, especially in composers like Richard Wagner, Nikolai Rimsky-Korsakov, Franz Liszt, Richard Strauss, and Gustav Mahler.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Claude Debussy",
-      "born": "8/22/1862",
-      "died": "3/25/1918",
-      "nationality": "French",
-      "profile": "One of the most prominent figures associated with Impressionist music, though he himself disliked the term when applied to his compositions. He was made Chevalier of the Legion of Honour in his native France in 1903. Debussy was among the most influential composers of the late 19th and early 20th centuries, and his use of non-traditional scales and chromaticism influenced many composers who followed. \n Debussy's music is noted for its sensory content and frequent usage of nontraditional tonalities. The prominent French literary style of his period was known as Symbolism, and this movement directly inspired Debussy both as a composer and as an active cultural participant.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Giacomo Puccini",
-      "born": "12/22/1858",
-      "died": "11/29/1924",
-      "nationality": "Italian",
-      "profile": "Composer whose operas are among the important operas played as standards. Puccini has been called \"the greatest composer of Italian opera after Verdi\". While his early work was rooted in traditional late-19th-century romantic Italian opera, he successfully developed his work in the realistic verismo style, of which he became one of the leading exponents.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Giovanni Pierluigi da Palestrina",
-      "born": "2/3/1525",
-      "died": "2/2/1594",
-      "nationality": "Italian",
-      "profile": "An Italian Renaissance composer of sacred music and the best-known 16th-century representative of the Roman School of musical composition. He had a lasting influence on the development of church music, and his work has often been seen as the culmination of Renaissance polyphony.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Anton Joseph Bruckner",
-      "born": "9/4/1824",
-      "died": "10/11/1896",
-      "nationality": "Austrian",
-      "profile": "Known for his symphonies, masses, and motets. The first are considered emblematic of the final stage of Austro-German Romanticism because of their rich harmonic language, strongly polyphonic character, and considerable length. Bruckner's compositions helped to define contemporary musical radicalism, owing to their dissonances, unprepared modulations, and roving harmonies. \n Unlike other musical radicals such as Richard Wagner and Hugo Wolf who fit the enfant terrible mould, Bruckner showed extreme humility before other musicians, Wagner in particular. This apparent dichotomy between Bruckner the man and Bruckner the composer hampers efforts to describe his life in a way that gives a straightforward context for his music. \n His works, the symphonies in particular, had detractors, most notably the influential Austrian critic Eduard Hanslick, and other supporters of Johannes Brahms who pointed to their large size and use of repetition, as well as to Bruckner's propensity for revising many of his works, often with the assistance of colleagues, and his apparent indecision about which versions he preferred. On the other hand, Bruckner was greatly admired by subsequent composers including his friend Gustav Mahler, who described him as \"half simpleton, half God\".",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Georg Philipp Telemann",
-      "born": "3/14/1681",
-      "died": "6/25/1767",
-      "nationality": "German",
-      "profile": "A German Baroque composer and multi-instrumentalist. Almost completely self-taught in music, he became a composer against his family's wishes. After studying in Magdeburg, Zellerfeld, and Hildesheim, Telemann entered the University of Leipzig to study law, but eventually settled on a career in music. He held important positions in Leipzig, Sorau, Eisenach, and Frankfurt before settling in Hamburg in 1721, where he became musical director of the city's five main churches. While Telemann's career prospered, his personal life was always troubled: his first wife died only a few months after their marriage, and his second wife had extramarital affairs and accumulated a large gambling debt before leaving Telemann. \n Telemann was and still is one of the most prolific composers in history (at least in terms of surviving oeuvre) and was considered by his contemporaries to be one of the leading German composers of the time. He was compared favorably both to his friend Johann Sebastian Bach, who made Telemann the godfather and namesake of his son Carl Philipp Emanuel, and to George Frideric Handel, whom Telemann also knew personally. Telemann's music incorporates several national styles (French, Italian) and is even at times influenced by Polish popular music. He remained at the forefront of all new musical tendencies and his music is an important link between the late Baroque and early Classical styles.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Camille Saint-Saëns",
-      "born": "10/9/183aëns",
-      "died": "12/16/1921",
-      "nationality": "French",
-      "profile": "A French composer, organist, conductor and pianist of the Romantic era. His best-known works include Introduction and Rondo Capriccioso (1863), the Second Piano Concerto (1868), the First Cello Concerto (1872), Danse macabre (1874), the opera Samson and Delilah (1877), the Third Violin Concerto (1880), the Third (\"Organ\") Symphony (1886) and The Carnival of the Animals (1886). \n Saint-Saëns was a musical prodigy, making his concert debut at the age of ten. After studying at the Paris Conservatoire he followed a conventional career as a church organist, first at Saint-Merri, Paris and, from 1858, La Madeleine, the official church of the French Empire. After leaving the post twenty years later, he was a successful freelance pianist and composer, in demand in France, mainland Europe, Britain, and the Americas.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Jean Sibelius",
-      "born": "12/8/1865",
-      "died": "9/20/1957",
-      "nationality": "Finnish",
-      "profile": "He is widely recognized as his country's greatest composer and, through his music, is often credited with having helped Finland to develop a national identity during its struggle for independence from Russia. \n The core of his oeuvre is his set of seven symphonies which, like his other major works, continue to be performed and recorded in his home country and internationally. His best-known compositions are Finlandia, the Karelia Suite, Valse triste, the Violin Concerto, the choral symphony Kullervo, and The Swan of Tuonela (from the Lemminkäinen Suite). Other works include pieces inspired by the Finnish national epic, the Kalevala, over a hundred songs for voice and piano, incidental music for numerous plays, the opera Jungfrun i tornet (The Maiden in the Tower), chamber music, piano music, Masonic ritual music,[3] and 21 publications of choral music. Throughout his career, the composer found inspiration in nature and Nordic mythology, especially the heroic legends of the national epic, the Kalevala.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Maurice Ravel",
-      "born": "3/7/1875",
-      "died": "12/28/1937",
-      "nationality": "French",
-      "profile": " A French composer, pianist and conductor. He is often associated with impressionism along with his elder contemporary Claude Debussy, although both composers rejected the term. In the 1920s and 1930s Ravel was internationally regarded as France's greatest living composer. \n Born to a music-loving family, Ravel attended France's premier music college, the Paris Conservatoire; he was not well regarded by its conservative establishment, whose biased treatment of him caused a scandal. After leaving the conservatoire Ravel found his own way as a composer, developing a style of great clarity, incorporating elements of baroque, neoclassicism and, in his later works, jazz. He liked to experiment with musical form, as in his best-known work, Boléro (1928), in which repetition takes the place of development. He made some orchestral arrangements of other composers' music, of which his 1922 version of Mussorgsky's Pictures at an Exhibition is the best known.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Gioacchino Rossini",
-      "born": "2/29/1792",
-      "died": "11/13/1868",
-      "nationality": "Italian",
-      "profile": "An Italian composer who wrote 39 operas as well as sacred music, chamber music, songs, and some instrumental and piano pieces. His best-known operas include the Italian comedies Il barbiere di Siviglia (The Barber of Seville) and La Cenerentola (Cinderella), and the French-language epics Moïse et Pharaon and Guillaume Tell (William Tell). A tendency for inspired, song-like melodies is evident throughout his scores, which led to the nickname \"The Italian Mozart\". \n Until his retirement in 1829, Rossini had been the most popular opera composer in history. He is quoted as joking, \"Give me the laundress' bill and I will even set that to music.\"",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Edvard Grieg",
-      "born": "6/15/1843",
-      "died": "9/4/1907",
-      "nationality": "Norvegian",
-      "profile": "Norwegian composer and pianist, born in Bergen, 15 June 1843, died 4 September 1907, also in Bergen. By borrowing rhythmic and melodic elements from norwegian folk music he created nationally romantic and patriotic music. Most famous are perhaps his compositions to the play \"Peer Gynt\" (written by Henrik Ibsen), which features songs as \"Morning Mood\" and \"In The Hall of The Mountain King\". Edvard Grieg is considered to be the greatest norwegian composer of all time.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Christoph Willibald Ritter von Gluck",
-      "born": "7/2/1714",
-      "died": "11/15/1787",
-      "nationality": "German",
-      "profile": "Was a composer of Italian and French opera in the early classical period. Born in the Upper Palatinate (now part of Germany) and raised in Bohemia,[1] he gained prominence at the Habsburg court at Vienna, where he brought about the practical reform of opera's dramaturgical practices that many intellectuals had been campaigning for over the years. With a series of radical new works in the 1760s, among them Orfeo ed Euridice and Alceste, he broke the stranglehold that Metastasian opera seria had enjoyed for much of the century.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Paul Hindemith",
-      "born": "11/16/1895",
-      "died": "12/28/1963",
-      "nationality": "German",
-      "profile": "German composer, violist, violinist, teacher and conductor. Notable compositions include his song cycle Das Marienleben (1923) and opera Mathis der Maler (1938). Hindemith's most popular work, both on record and in the concert hall, is probably the Symphonic Metamorphosis of Themes by Carl Maria von Weber, written in 1943.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Claudio Monteverdi",
-      "born": "5/15/1567",
-      "died": "11/29/1643",
-      "nationality": "Italian",
-      "profile": "Italian composer (mainly of madrigals and operas), gambist, and singer and Roman Catholic priest. Born in Cremona, 15 May 1567 (baptized); died in Venice, 29 November 1643. \n Monteverdi's work is often regarded as revolutionary and marked the transition from the Renaissance style to that of the Baroque period. He developed two individual styles of composition: the new basso continuo technique of the Baroque and the heritage of Renaissance polyphony. Enjoying fame in his lifetime, he wrote one of the earliest operas, L'Orfeo, which is still regularly performed.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Béla Bartók",
-      "born": "3/25/1881",
-      "died": "9/26/1945",
-      "nationality": "Hungarian",
-      "profile": "Teacher, ethnomusicologist, and pianist, Béla Bartók has come to be regarded as one of the most influential Modern composers of the twentieth century, along with Claude Debussy, Arnold Schoenberg, Igor Stravinsky, Paul Hindemith, and Anton Webern. His influence crossed borders, especially strong in postwar Eastern Europe, where the most talented of the new composers followed him, in France where his disciples included Oliver Messiaën and André Jolivet, and in South and Latin Americas. Schoenberg once confided to his student Oscar Levant that Bartók was the second greatest living composer.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "César Auguste Jean Guillaume Hubert Franck",
-      "born": "12/10/1822",
-      "died": "11/8/1890",
-      "nationality": "Belgian",
-      "profile": "He was born at Liège, in what is now Belgium (though at the time of his birth it was part of the United Kingdom of the Netherlands). He gave his first concerts there in 1834 and studied privately in Paris from 1835, where his teachers included Anton Reicha. After a brief return to Belgium, and a disastrous reception to an early oratorio Ruth, he moved to Paris, where he married and embarked on a career as teacher and organist. He gained a reputation as a formidable improviser, and travelled widely in France to demonstrate new instruments built by Aristide Cavaillé-Coll. \n In 1858 he became organist at Sainte-Clotilde, a position he retained for the rest of his life. He became professor at the Paris Conservatoire in 1872; he took French nationality, a requirement of the appointment. His pupils included Vincent d'Indy, Ernest Chausson, Louis Vierne, Charles Tournemire, Guillaume Lekeu and Henri Duparc. After acquiring the professorship Franck wrote several pieces that have entered the standard classical repertoire, including symphonic, chamber, and keyboard works.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Antonio Lucio Vivaldi",
-      "born": "3/4/1678",
-      "died": "7/28/1741",
-      "nationality": "Italian",
-      "profile": "Baroque composer, virtuoso violinist, teacher and cleric. Born in Venice, he is recognized as one of the greatest Baroque composers, and his influence during his lifetime was widespread across Europe. He is known mainly for composing many instrumental concertos, for the violin and a variety of other instruments, as well as sacred choral works and more than forty operas. His best-known work is a series of violin concertos known as The Four Seasons. \n Many of his compositions were written for the female music ensemble of the Ospedale della Pietà, a home for abandoned children where Vivaldi (who had been ordained as a Catholic priest) was employed from 1703 to 1715 and from 1723 to 1740. Vivaldi also had some success with expensive stagings of his operas in Venice, Mantua and Vienna. After meeting the Emperor Charles VI, Vivaldi moved to Vienna, hoping for preferment. However, the Emperor died soon after Vivaldi's arrival, and Vivaldi himself died less than a year later in poverty.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Georges Bizet",
-      "born": "10/25/1838",
-      "died": "6/3/1875",
-      "nationality": "French",
-      "profile": "Was a French composer of the romantic era. Best known for his operas in a career cut short by his early death, Bizet achieved few successes before his final work, Carmen, which has become one of the most popular and frequently performed works in the entire opera repertoire. \n During a brilliant student career at the Conservatoire de Paris, Bizet won many prizes, including the prestigious Prix de Rome in 1857. He was recognised as an outstanding pianist, though he chose not to capitalise on this skill and rarely performed in public. Returning to Paris after almost three years in Italy, he found that the main Parisian opera theatres preferred the established classical repertoire to the works of newcomers. His keyboard and orchestral compositions were likewise largely ignored; as a result, his career stalled, and he earned his living mainly by arranging and transcribing the music of others. Restless for success, he began many theatrical projects during the 1860s, most of which were abandoned. Neither of his two operas that reached the stage in this time—Les pêcheurs de perles and La jolie fille de Perth—were immediately successful.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Modest Mussorgsky",
-      "born": "3/21/1839",
-      "died": "3/28/1881",
-      "nationality": "Russian",
-      "profile": "A Russian composer, one of the group known as \"The Five\". He was an innovator of Russian music in the romantic period. He strove to achieve a uniquely Russian musical identity, often in deliberate defiance of the established conventions of Western music. \n Many of his works were inspired by Russian history, Russian folklore, and other nationalist themes. Such works include the opera Boris Godunov, the orchestral tone poem Night on Bald Mountain and the piano suite Pictures at an Exhibition. For many years Mussorgsky's works were mainly known in versions revised or completed by other composers. Many of his most important compositions have posthumously come into their own in their original forms, and some of the original scores are now also available.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Jean Philippe Rameau",
-      "born": "9/25/168",
-      "died": "9/12/1764",
-      "nationality": "French",
-      "profile": "One of the most important French composers and music theorists of the Baroque era. He replaced Jean-Baptiste Lully as the dominant composer of French opera and is also considered the leading French composer for the harpsichord of his time, alongside François Couperin. \n Little is known about Rameau's early years, and it was not until the 1720s that he won fame as a major theorist of music with his Treatise on Harmony (1722) and also in the following years as a composer of masterpieces for the harpsichord, which circulated throughout Europe. He was almost 50 before he embarked on the operatic career on which his reputation chiefly rests today. His debut, Hippolyte et Aricie (1733), caused a great stir and was fiercely attacked by the supporters of Lully's style of music for its revolutionary use of harmony. Nevertheless, Rameau's pre-eminence in the field of French opera was soon acknowledged, and he was later attacked as an \"establishment\" composer by those who favoured Italian opera during the controversy known as the Querelle des Bouffons in the 1750s. Rameau's music had gone out of fashion by the end of the 18th century, and it was not until the 20th that serious efforts were made to revive it. Today, he enjoys renewed appreciation with performances and recordings of his music ever more frequent.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Gabriel Fauré",
-      "born": "5/12/1845",
-      "died": "11/4/1924",
-      "nationality": "French",
-      "profile": "A French composer, organist, pianist and teacher. He was one of the foremost French composers of his generation, and his musical style influenced many 20th-century composers. Among his best-known works are his Pavane, Requiem, nocturnes for piano and the songs \"Après un rêve\" and \"Clair de lune\". Although his best-known and most accessible compositions are generally his earlier ones, Fauré composed many of his most highly regarded works in his later years, in a more harmonically and melodically complex style. \n Fauré's music has been described as linking the end of Romanticism with the modernism of the second quarter of the 20th century. When he was born, Chopin was still composing, and by the time of Fauré's death, jazz and the atonal music of the Second Viennese School were being heard. The Grove Dictionary of Music and Musicians, which describes him as the most advanced composer of his generation in France, notes that his harmonic and melodic innovations influenced the teaching of harmony for later generations. During the last twenty years of his life, he suffered from increasing deafness. In contrast with the charm of his earlier music, his works from this period are sometimes elusive and withdrawn in character, and at other times turbulent and impassioned.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Nikolai Rimsky-Korsakov",
-      "born": "3/18/184orsakov",
-      "died": "6/21/1908",
-      "nationality": "Russian",
-      "profile": "Was a Russian composer, and a member of the group of composers known as The Five. He was a master of orchestration. His best-known orchestral compositions—Capriccio Espagnol, the Russian Easter Festival Overture, and the symphonic suite Scheherazade—are staples of the classical music repertoire, along with suites and excerpts from some of his 15 operas. Scheherazade is an example of his frequent use of fairy tale and folk subjects. \n Rimsky-Korsakov believed, as did fellow composer Mily Balakirev and critic Vladimir Stasov, in developing a nationalistic style of classical music. This style employed Russian folk song and lore along with exotic harmonic, melodic and rhythmic elements in a practice known as musical orientalism, and eschewed traditional Western compositional methods. However, Rimsky-Korsakov appreciated Western musical techniques after he became a professor of musical composition, harmony and orchestration at the Saint Petersburg Conservatory in 1871. He undertook a rigorous three-year program of self-education and became a master of Western methods, incorporating them alongside the influences of Mikhail Glinka and fellow members of The Five. His techniques of composition and orchestration were further enriched by his exposure to the works of Richard Wagner.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Gaetano Donizetti",
-      "born": "11/29/1797",
-      "died": "4/8/1848",
-      "nationality": "Italian",
-      "profile": "He began his early musical education under several teachers, including the famous opera composer Simon Mayr, and later, in Bologna, under the renowned teacher Padre Stanislao Mattei. Donizetti's father insisted that his son return to Bergamo and support himself by giving music lessons, but Gaetano disliked the life of a music teacher and decided to enlist in the army. \n Donizetti also played an invaluable role in the development of Italian opera, planting the seeds that enabled opera to flourish in the latter half of the nineteenth century. Donizetti, to a much greater extent than Rossini and Bellini, was to exert a tremendous influence on the operas of Giuseppe Verdi. The composer, though, will always be best remembered for the rich musical catalogue of his own works; L'Elisir d'Amore, Lucia di Lammermoor, La Fille du Régiment, and Don Pasquale have never left the opera house, and the recently renewed interest in music of the bel canto period has led opera companies to bring new life to many of his other stage works.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Ralph Vaughan Williams",
-      "born": "10/12/1872",
-      "died": "8/26/1958",
-      "nationality": "English",
-      "profile": "His works include operas, ballets, chamber music, secular and religious vocal pieces and orchestral compositions including nine symphonies, written over nearly fifty years. Strongly influenced by Tudor music and English folk-song, his output marked a decisive break in British music from its German-dominated style of the 19th century. \n Vaughan Williams was born to a well-to-do family with strong moral views and a progressive social outlook. Throughout his life he sought to be of service to his fellow citizens, and believed in making music as available as possible to everybody. He wrote many works for amateur and student performance. He was musically a late developer, not finding his true voice until his late thirties; his studies in 1907–08 with the French composer Maurice Ravel helped him clarify the textures of his music and free it from Teutonic influences.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Bedřich Smetana",
-      "born": "3/2/1824",
-      "died": "5/12/1884",
-      "nationality": "Czech",
-      "profile": "A Czech composer who pioneered the development of a musical style which became closely identified with his country's aspirations to independent statehood. He is thus widely regarded in his homeland as the father of Czech music. Internationally he is best known for his opera The Bartered Bride and for the symphonic cycle Má vlast (My Homeland), which portrays the history, legends and landscape of the composer's native land. \n By the end of 1874, Smetana had become completely deaf but, freed from his theatre duties and the related controversies, he began a period of sustained composition that continued for almost the rest of his life. His contributions to Czech music were increasingly recognised and honoured, but a mental collapse early in 1884 led to his incarceration in an asylum and his subsequent death. Smetana's reputation as the founding father of Czech music has endured in his native country, where advocates have raised his status above that of his contemporaries and successors. However, relatively few of Smetana's works are in the international repertory, and most foreign commentators tend to regard Antonín Dvořák as a more significant Czech composer.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Johann Strauss Jr.",
-      "born": "10/25/1825",
-      "died": "6/3/1899",
-      "nationality": "Austrian",
-      "profile": "An Austrian composer of light music, particularly dance music and operettas. He composed over 500 waltzes, polkas, quadrilles, and other types of dance music, as well as several operettas and a ballet. In his lifetime, he was known as \"The Waltz King\", and was largely then responsible for the popularity of the waltz in Vienna during the 19th century. \n Strauss had two younger brothers, Josef and Eduard Strauss, who became composers of light music as well, although they were never as well known as their elder brother. Some of Johann Strauss' most famous works include \"The Blue Danube\", \"Kaiser-Walzer\", \"Tales from the Vienna Woods\", and the \"Tritsch-Tratsch-Polka\". Among his operettas, Die Fledermaus and Der Zigeunerbaron are the best known.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Carl Maria von Weber",
-      "born": "11/18/1786",
-      "died": "6/5/1826",
-      "nationality": "German",
-      "profile": "German composer, conductor, pianist, guitarist and critic, one of the first significant composers of the Romantic school. \n Weber's operas Der Freischütz, Euryanthe and Oberon greatly influenced the development of the Romantische Oper (Romantic opera) in Germany. Der Freischütz came to be regarded as the first German \"nationalist\" opera, Euryanthe developed the Leitmotif technique to an unprecedented degree, while Oberon may have influenced Mendelssohn's music for A Midsummer Night's Dream and, at the same time, revealed Weber's lifelong interest in the music of non-Western cultures. This interest was first manifested in Weber's incidental music for Schiller's translation of Gozzi's Turandot, for which he used a Chinese melody, making him the first Western composer to use an Asian tune that was not of the pseudo-Turkish kind popularized by Mozart and others. \n His operas influenced the work of later opera composers, especially in Germany, such as Marschner, Meyerbeer and Wagner, as well as several nationalist 19th-century composers such as Glinka. Homage has been paid to Weber by 20th-century composers such as Debussy, Stravinsky, Mahler (who completed Weber's unfinished comic opera Die drei Pintos and made revisions of Euryanthe and Oberon) and Hindemith (composer of the popular Symphonic Metamorphosis of Themes by Carl Maria von Weber). Weber also wrote music journalism and was interested in folksong, and learned lithography to engrave his own works.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Leoš Janáček",
-      "born": "7/3/1854",
-      "died": "8/12/1928",
-      "nationality": "Czech",
-      "profile": "A Czech composer, musical theorist, folklorist, publicist and teacher. He was inspired by Moravian and other Slavic folk music to create an original, modern musical style. \n Until 1895 he devoted himself mainly to folkloristic research and his early musical output was influenced by contemporaries such as Antonín Dvořák. His later, mature works incorporate his earlier studies of national folk music in a modern, highly original synthesis, first evident in the opera Jenůfa, which was premiered in 1904 in Brno. The success of Jenůfa (often called the \"Moravian national opera\") at Prague in 1916 gave Janáček access to the world's great opera stages. Janáček's later works are his most celebrated. They include operas such as Káťa Kabanová and The Cunning Little Vixen, the Sinfonietta, the Glagolitic Mass, the rhapsody Taras Bulba, two string quartets, and other chamber works. Along with Antonín Dvořák and Bedřich Smetana, he is considered one of the most important Czech composers.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "François Couperin",
-      "born": "11/10/1668",
-      "died": "9/11/1733",
-      "nationality": "French",
-      "profile": "Was a French Baroque composer, organist and harpsichordist. He was known as Couperin le Grand (\"Couperin the Great\") to distinguish him from other members of the musically talented Couperin family. \n Couperin was born into one of the best known musical families of Europe. His father Charles was organist at Church Saint-Gervais in Paris, a position previously occupied by Charles' brother Louis Couperin, a highly regarded keyboard virtuoso and composer whose career was cut short by an early death. As a boy, François must have received his first music lessons from his father. Unfortunately, Charles died in 1679. The church council at Saint-Gervais hired Michel Richard Delalande to serve as new organist, with the condition that François would replace him at age 18. Meanwhile, the boy was taken care of and taught by organist Jacques-Denis Thomelin, who served both at the court and at the famous church of St Jacques-de-la-Boucherie. According to a biography by Évrard Titon du Tillet, Thomelin treated the boy extremely well and became \"a second father\" to him. François's talent must have manifested itself quite early, since already by 1685 the church council agreed to provide him with a regular salary even though he had no formal contract.",
-      "audiosample": "sound.mp3"
-   }, {
-      "name": "Alexander Borodin",
-      "born": "11/12/1833",
-      "died": "2/27/1887",
-      "nationality": "Russian",
-      "profile": "A Russian Romantic composer of Georgian origin, as well as a doctor and chemist. He was one of the prominent 19th century composers known as The Mighty Handful, a group dedicated to producing a uniquely Russian kind of classical music, rather than imitating earlier Western European models. \n Borodin is best known for his symphonies, his two string quartets, In the Steppes of Central Asia and his opera Prince Igor. Music from Prince Igor and his string quartets was later adapted for the US musical Kismet. A notable advocate of women's rights, Borodin was a promoter of education in Russia and founded the School of Medicine for Women in St. Petersburg.",
-      "audiosample": "sound.mp3"
-   }]
-}
+[{
+   "name": "Johann Sebastian Bach",
+   "born": "3/21/1685",
+   "died": "7/28/1750",
+   "nationality": "German",
+   "profile": "Johann Sebastian Bach was born on March 21, 1685. A prolific German composer and organist, his sacred and secular works for choir, orchestra and solo instruments drew together the strands of the baroque genre and brought it to its ultimate maturity. Although he introduced no new forms, he enriched the prevailing German style with a robust contrapuntal technique, a control of harmonic and motivic organisation from the smallest to the largest scales, and the adaptation of rhythms and textures from abroad, particularly Italy and France. Many people consider him to be the greatest Baroque composer, and one of the greatest composers of all time. \n Revered for their intellectual depth, technical command and artistic beauty, JS Bach's works include the Brandenburg concertos, the keyboard suites and partitas, the Mass in B Minor, the St. Matthew Passion, The Musical Offering, The Art of Fugue and a large number of cantatas, of which about 220 survive. He died on July 28, 1750. \n He was the father of three sons - Carl Philipp Emanuel Bach, Johann Christian Bach and Wilhelm Friedemann Bach.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Wolfgang Theophilus Mozart",
+   "born": "1/27/1756",
+   "died": "12/5/1791",
+   "nationality": "Austrian",
+   "profile": "Wolfgang Amadeus Mozart was born on January 27, 1756. He was a prolific and highly influential composer of Classical music. His enormous output of more than six hundred compositions includes works that are widely acknowledged as pinnacles of symphonic, chamber, piano, operatic, and choral music. Mozart is among the most enduringly popular of European composers, and many of his works are part of the standard concert repertoire. He died on December 5, 1791. \n Wolfgang Amadeus Mozart is the son of Leopold Mozart.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Ludwig van Beethoven",
+   "born": "12/15/1770",
+   "died": "3/26/1827",
+   "nationality": "German",
+   "profile": "German composer and pianist, born in 1770 (baptized 17 December 1770) in Bonn, Germany and died 26 March 1827 in Vienna, Austria. \n Beethoven was the eldest son of a singer in the Kapelle of the Archbishop-Elector of Cologne and grandson of the Archbishop's Kapellmeister. He moved in 1792 to Vienna, where he had some lessons from Haydn and others, quickly establishing himself as a remarkable keyboard-player and original composer. By 1815 increasing deafness made public performance impossible and accentuated existing eccentricities of character, patiently tolerated by a series of rich patrons and his royal pupil the Archduke Rudolph. \n Beethoven did much to enlarge the possibilities of music and widen the horizons of later generations of composers. To his contemporaries he was sometimes a controversial figure, making heavy demands on listeners both by the length and by the complexity of his writing, as he explored new fields of music.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Wilhelm Richard Wagner",
+   "born": "5/22/1813",
+   "died": "2/13/1883",
+   "nationality": "German",
+   "profile": "German composer, theatre director, polemicist, and conductor of the romantic period, born in Leipzig, Germany, May 22 1813 - died in Venice, Italy, February 13 1883. He is primarily known for his operas. Father of Siegfried Wagner, grandfather of Wieland Wagner, Friedelind Wagner and Wolfgang Wagner",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Joseph Haydn",
+   "born": "3/31/1732",
+   "died": "5/31/1809",
+   "nationality": "Austrian",
+   "profile": " A prominent and prolific Austrian composer of the Classical period. He was instrumental in the development of chamber music such as the piano trio and his contributions to musical form have earned him the epithets \"Father of the Symphony\" and \"Father of the String Quartet\". \n Haydn spent much of his career as a court musician for the wealthy Esterházy family at their remote estate. Until the later part of his life, this isolated him from other composers and trends in music so that he was, as he put it, \"forced to become original\". Yet his music circulated widely and for much of his career he was the most celebrated composer in Europe. \n Joseph Haydn, a friend and mentor of Mozart, and teacher of Beethoven, was the older brother of composer Michael Haydn.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Johannes Brahms",
+   "born": "5/7/1833",
+   "died": "4/3/1897",
+   "nationality": "German",
+   "profile": "The music of Johannes Brahms represents the furthest development of one strain of Nineteenth-Century Romanticism. Broadly speaking, one can distinguish five lines of development: the Beethoven-Mendelssohn-Schumann-Brahms; Liszt-Wagner-Bruckner-Strauss; folk-lore nationalism; Italian opera; and French, both operatic and symphonic. Some of this overlaps, of course. One can view Brahms, for example, with his deep artistic attachment to German folklore and older music, as a German nationalist.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Franz Peter Schubert",
+   "born": "1/31/1797",
+   "died": "11/19/1828",
+   "nationality": "Austrian",
+   "profile": "Schubert died before his 32nd birthday, but was extremely prolific during his lifetime. His output consists of over six hundred secular vocal works (mainly Lieder), seven complete symphonies, sacred music, operas, incidental music and a large body of chamber and piano music. Appreciation of his music while he was alive was limited to a relatively small circle of admirers in Vienna, but interest in his work increased significantly in the decades following his death. Felix Mendelssohn, Robert Schumann, Franz Liszt, Johannes Brahms and other 19th-century composers discovered and championed his works. Today, Schubert is ranked among the greatest composers of the late Classical and early Romantic eras and is one of the most frequently performed composers of the early nineteenth century.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Robert Alexander Schumann",
+   "born": "6/8/1810",
+   "died": "7/29/1856",
+   "nationality": "German",
+   "profile": "German composer, pianist, aesthete and influential music critic from the Romantic era, born 8 June 1810 in Zwickau, Germany and died 29 July 1856 in Endenich/Bonn, Germany. He was married to Clara Schumann.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Georg Friedrich Händel",
+   "born": "2/23/1685",
+   "died": "4/14/1759",
+   "nationality": "German",
+   "profile": "A German, later British baroque composer who spent the bulk of his career in London, becoming well known for his operas, oratorios, anthems, and organ concertos. Handel received critical training in Halle, Hamburg and Italy before settling in London in 1712; he became a naturalised British subject in 1727. He was strongly influenced both by the great composers of the Italian Baroque and the middle-German polyphonic choral tradition.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Piotr Illitch Tchaïkovsky",
+   "born": "5/7/1840",
+   "died": "11/6/1893",
+   "nationality": "Russian",
+   "profile": "Composer of the late-Romantic period, some of whose works are among the most popular music in the classical repertoire. He was the first Russian composer whose music made a lasting impression internationally, bolstered by his appearances as a guest conductor in Europe and the United States. Tchaikovsky was honored in 1884, by Emperor Alexander III, and awarded a lifetime pension.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Felix Mendelssoh",
+   "born": "2/3/180artholdy",
+   "died": "11/4/1847",
+   "nationality": "German",
+   "profile": "A grandson of the philosopher Moses Mendelssohn, Felix Mendelssohn was born into a prominent Jewish family. He was brought up without religion until the age of seven, when he was baptised as a Reformed Christian. Mendelssohn was recognised early as a musical prodigy, but his parents were cautious and did not seek to capitalise on his talent. \n Mendelssohn enjoyed early success in Germany, where he also revived interest in the music of Johann Sebastian Bach, and in his travels throughout Europe. He was particularly well received in Britain as a composer, conductor and soloist, and his ten visits there – during which many of his major works were premiered – form an important part of his adult career. His essentially conservative musical tastes, however, set him apart from many of his more adventurous musical contemporaries such as Franz Liszt, Richard Wagner and Hector Berlioz. The Leipzig Conservatoire (now the University of Music and Theatre Leipzig), which he founded, became a bastion of this anti-radical outlook.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Antonín Dvořák",
+   "born": "9/8/1841",
+   "died": "5/1/1904",
+   "nationality": "Czech",
+   "profile": "Dvořák displayed his musical gifts at an early age, being an apt violin student from age six. The first public performances of his works were in Prague in 1872 and, with special success, in 1873, when he was age 31. Seeking recognition beyond the Prague area, he first submitted a score of his First Symphony to a prize competition in Germany, but he did not win, and the manuscript, not returned, was lost until rediscovered many decades later. Then in 1874 he first made a submission for the Austrian State Prize for Composition, including scores of two further symphonies and other works. Brahms, unbeknownst to Dvořák, was the leading member of the jury and was highly impressed. The prize was awarded to Dvořák for 1874[a] and again in 1876 and in 1877, when Brahms and the prominent critic Eduard Hanslick, also a member of the jury, made themselves known to him. Brahms recommended Dvořák to his publisher, Simrock, who soon afterward commissioned what became the Slavonic Dances, Op. 46. These were highly praised by the Berlin music critic Louis Ehlert in 1878, the sheet music (of the original piano 4-hands version) had excellent sales, and Dvořák’s international reputation at last was launched.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Franz Liszt",
+   "born": "10/22/1811",
+   "died": "7/31/1886",
+   "nationality": "Hungarian",
+   "profile": "Liszt gained renown in Europe during the early nineteenth century for his prodigious virtuosic skill as a pianist. He was said by his contemporaries to have been the most technically advanced pianist of his age, and in the 1840s he was considered to be the greatest pianist in history. However, Liszt himself stated that Charles-Valentin Alkan had superior technique to his own. Liszt was also a well-known and influential composer, piano teacher and conductor. He was a benefactor to other composers, including Frédéric Chopin, Richard Wagner, Hector Berlioz, Camille Saint-Saëns, Edvard Grieg, Ole Bull and Alexander Borodin.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Frédéric Chopin",
+   "born": "3/1/1810",
+   "died": "10/17/1849",
+   "nationality": "Polish",
+   "profile": "Virtuoso pianist of the Romantic era who wrote primarily for the solo piano. He gained and has maintained renown worldwide as a leading musician of his era, whose \"poetic genius was based on a professional technique that was without equal in his generation.\"[1] Chopin was born in what was then the Duchy of Warsaw and grew up in Warsaw, which in 1815 became part of Congress Poland. A child prodigy, he completed his musical education and composed his earlier works in Warsaw before leaving Poland at the age of 20, less than a month before the outbreak of the November 1830 Uprising. \n Chopin's music, his status as one of music's earliest superstars, his association (if only indirect) with political insurrection, his love life and his early death have made him a leading symbol of the Romantic era in the public consciousness. His works remain popular, and he has been the subject of numerous films and biographies of varying degrees of historical accuracy.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Igor Stravinsky",
+   "born": "6/17/1882",
+   "died": "4/6/1971",
+   "nationality": "Russian",
+   "profile": "Igor Fyodorovich Stravinsky was a very famous and talented composer of the 20th century. Born to musician parents, his father, Fyodor was a bass singer and his mother, Anna, was a very skilled pianist. Not wanting their son to follow in their footsteps, they asked him to go into law after having finished his secondary school. Once he was in the university, Vladimir Rimsky-Korsakov, son of a very renowned composer became his mentor after Stravinsky got an invitation to join him. His father died in the year 1902 and that is when Stravinsky decided that he wanted to have a career in music composition.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Giuseppe Verdi",
+   "born": "10/9/1813",
+   "died": "1/27/1901",
+   "nationality": "Italian",
+   "profile": "Verdi was born near Busseto to a provincial family of moderate means, and developed a musical education with the help of a local patron. Verdi came to dominate the Italian opera scene after the era of Bellini, Donizetti and Rossini, whose works significantly influenced him, becoming one of the pre-eminent opera composers in history. \n In his early operas Verdi demonstrated a sympathy with the Risorgimento movement which sought the unification of Italy. He also participated briefly as an elected politician. The chorus \"Va, pensiero\" from his early opera Nabucco (1842), and similar choruses in later operas, were much in the spirit of the unification movement, and the composer himself became esteemed as a representative of these ideals. An intensely private person, Verdi however did not seek to ingratiate himself with popular movements and as he became professionally successful was able to reduce his operatic workload and sought to establish himself as a landowner in his native region. He surprised the musical world by returning, after his success with the opera Aida (1871), with three late masterpieces: his Requiem (1874), and the operas Otello (1887) and Falstaff (1893). \n His operas remain extremely popular, especially the three peaks of his 'middle period': Rigoletto, Il trovatore and La traviata, and the bicentenary of his birth in 2013 was widely celebrated in broadcasts and performances.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Gustav Mahler",
+   "born": "7/7/1860",
+   "died": "5/18/1911",
+   "nationality": "Austrian",
+   "profile": "Gustav Mahler was a late-Romantic Austrian-Bohemian composer and one of the leading conductors of his generation. As a composer, he acted as a bridge between the 19th century Austro-German tradition and the modernism of the early 20th century. While in his lifetime his status as a conductor was established beyond question, his own music gained wide popularity only after periods of relative neglect which included a ban on its performance in much of Europe during the Nazi era. After 1945 the music was discovered and championed by a new generation of listeners; Mahler then became one of the most frequently performed and recorded of all composers, a position he has sustained into the 21st century.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Sergei Sergeyevich Prokofiev",
+   "born": "4/27/1891",
+   "died": "3/5/1953",
+   "nationality": "Russian",
+   "profile": "Ukrainian-born Russian composer (born 1891 in Sontsovka, Russian Empire (now in Donetsk oblast, Ukraine) - died 1953 in Moscow, USSR). He mastered numerous musical genres and came to be admired as one of the greatest composers of the 20th century. Alternative transliterations of his name include Sergey, Sergej or Serge, and Prokofief, Prokofieff or Prokofiew.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Dmitri Shostakovich",
+   "born": "9/25/1906",
+   "died": "8/9/1975",
+   "nationality": "Russian",
+   "profile": "A Soviet composer and pianist, and a prominent figure of 20th-century music. \n Shostakovich achieved fame in the Soviet Union under the patronage of Soviet chief of staff Mikhail Tukhachevsky, but later had a complex and difficult relationship with the government. Nevertheless, he received accolades and state awards and served in the Supreme Soviet of the RSFSR (1947–1962) and the Supreme Soviet of the Soviet Union (from 1962 until his death). \n A poly-stylist, Shostakovich developed a hybrid voice, combining a variety of different musical techniques into his music. Shostakovich's music is characterized by sharp contrasts, elements of the grotesque, and ambivalent tonality; the composer was also heavily influenced by the neo-classical style pioneered by Igor Stravinsky, and (especially in his symphonies) by the post-Romanticism associated with Gustav Mahler.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Richard Strauss",
+   "born": "6/11/1864",
+   "died": "9/8/1949",
+   "nationality": "German",
+   "profile": "A leading German composer of the late Romantic and early modern eras. He is known for his operas, which include Der Rosenkavalier, Elektra, Die Frau ohne Schatten and Salome; his Lieder, especially his Four Last Songs; his tone poems, including Don Juan, Death and Transfiguration, Till Eulenspiegel's Merry Pranks, Also sprach Zarathustra, Ein Heldenleben, Symphonia Domestica, and An Alpine Symphony; and other instrumental works such as Metamorphosen and his Oboe Concerto. Strauss was also a prominent conductor throughout Germany and Austria. \n Strauss, along with Gustav Mahler, represents the late flowering of German Romanticism after Richard Wagner, in which pioneering subtleties of orchestration are combined with an advanced harmonic style.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Hector Berlioz",
+   "born": "12/11/1803",
+   "died": "3/8/1869",
+   "nationality": "French",
+   "profile": "French Romantic composer, best known for his compositions Symphonie fantastique and Grande messe des morts (Requiem). Berlioz made significant contributions to the modern orchestra with his Treatise on Instrumentation. He specified huge orchestral forces for some of his works, and conducted several concerts with more than 1,000 musicians. He also composed around 50 songs. His influence was critical for the further development of Romanticism, especially in composers like Richard Wagner, Nikolai Rimsky-Korsakov, Franz Liszt, Richard Strauss, and Gustav Mahler.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Claude Debussy",
+   "born": "8/22/1862",
+   "died": "3/25/1918",
+   "nationality": "French",
+   "profile": "One of the most prominent figures associated with Impressionist music, though he himself disliked the term when applied to his compositions. He was made Chevalier of the Legion of Honour in his native France in 1903. Debussy was among the most influential composers of the late 19th and early 20th centuries, and his use of non-traditional scales and chromaticism influenced many composers who followed. \n Debussy's music is noted for its sensory content and frequent usage of nontraditional tonalities. The prominent French literary style of his period was known as Symbolism, and this movement directly inspired Debussy both as a composer and as an active cultural participant.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Giacomo Puccini",
+   "born": "12/22/1858",
+   "died": "11/29/1924",
+   "nationality": "Italian",
+   "profile": "Composer whose operas are among the important operas played as standards. Puccini has been called \"the greatest composer of Italian opera after Verdi\". While his early work was rooted in traditional late-19th-century romantic Italian opera, he successfully developed his work in the realistic verismo style, of which he became one of the leading exponents.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Giovanni Pierluigi da Palestrina",
+   "born": "2/3/1525",
+   "died": "2/2/1594",
+   "nationality": "Italian",
+   "profile": "An Italian Renaissance composer of sacred music and the best-known 16th-century representative of the Roman School of musical composition. He had a lasting influence on the development of church music, and his work has often been seen as the culmination of Renaissance polyphony.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Anton Joseph Bruckner",
+   "born": "9/4/1824",
+   "died": "10/11/1896",
+   "nationality": "Austrian",
+   "profile": "Known for his symphonies, masses, and motets. The first are considered emblematic of the final stage of Austro-German Romanticism because of their rich harmonic language, strongly polyphonic character, and considerable length. Bruckner's compositions helped to define contemporary musical radicalism, owing to their dissonances, unprepared modulations, and roving harmonies. \n Unlike other musical radicals such as Richard Wagner and Hugo Wolf who fit the enfant terrible mould, Bruckner showed extreme humility before other musicians, Wagner in particular. This apparent dichotomy between Bruckner the man and Bruckner the composer hampers efforts to describe his life in a way that gives a straightforward context for his music. \n His works, the symphonies in particular, had detractors, most notably the influential Austrian critic Eduard Hanslick, and other supporters of Johannes Brahms who pointed to their large size and use of repetition, as well as to Bruckner's propensity for revising many of his works, often with the assistance of colleagues, and his apparent indecision about which versions he preferred. On the other hand, Bruckner was greatly admired by subsequent composers including his friend Gustav Mahler, who described him as \"half simpleton, half God\".",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Georg Philipp Telemann",
+   "born": "3/14/1681",
+   "died": "6/25/1767",
+   "nationality": "German",
+   "profile": "A German Baroque composer and multi-instrumentalist. Almost completely self-taught in music, he became a composer against his family's wishes. After studying in Magdeburg, Zellerfeld, and Hildesheim, Telemann entered the University of Leipzig to study law, but eventually settled on a career in music. He held important positions in Leipzig, Sorau, Eisenach, and Frankfurt before settling in Hamburg in 1721, where he became musical director of the city's five main churches. While Telemann's career prospered, his personal life was always troubled: his first wife died only a few months after their marriage, and his second wife had extramarital affairs and accumulated a large gambling debt before leaving Telemann. \n Telemann was and still is one of the most prolific composers in history (at least in terms of surviving oeuvre) and was considered by his contemporaries to be one of the leading German composers of the time. He was compared favorably both to his friend Johann Sebastian Bach, who made Telemann the godfather and namesake of his son Carl Philipp Emanuel, and to George Frideric Handel, whom Telemann also knew personally. Telemann's music incorporates several national styles (French, Italian) and is even at times influenced by Polish popular music. He remained at the forefront of all new musical tendencies and his music is an important link between the late Baroque and early Classical styles.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Camille Saint-Saëns",
+   "born": "10/9/183aëns",
+   "died": "12/16/1921",
+   "nationality": "French",
+   "profile": "A French composer, organist, conductor and pianist of the Romantic era. His best-known works include Introduction and Rondo Capriccioso (1863), the Second Piano Concerto (1868), the First Cello Concerto (1872), Danse macabre (1874), the opera Samson and Delilah (1877), the Third Violin Concerto (1880), the Third (\"Organ\") Symphony (1886) and The Carnival of the Animals (1886). \n Saint-Saëns was a musical prodigy, making his concert debut at the age of ten. After studying at the Paris Conservatoire he followed a conventional career as a church organist, first at Saint-Merri, Paris and, from 1858, La Madeleine, the official church of the French Empire. After leaving the post twenty years later, he was a successful freelance pianist and composer, in demand in France, mainland Europe, Britain, and the Americas.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Jean Sibelius",
+   "born": "12/8/1865",
+   "died": "9/20/1957",
+   "nationality": "Finnish",
+   "profile": "He is widely recognized as his country's greatest composer and, through his music, is often credited with having helped Finland to develop a national identity during its struggle for independence from Russia. \n The core of his oeuvre is his set of seven symphonies which, like his other major works, continue to be performed and recorded in his home country and internationally. His best-known compositions are Finlandia, the Karelia Suite, Valse triste, the Violin Concerto, the choral symphony Kullervo, and The Swan of Tuonela (from the Lemminkäinen Suite). Other works include pieces inspired by the Finnish national epic, the Kalevala, over a hundred songs for voice and piano, incidental music for numerous plays, the opera Jungfrun i tornet (The Maiden in the Tower), chamber music, piano music, Masonic ritual music,[3] and 21 publications of choral music. Throughout his career, the composer found inspiration in nature and Nordic mythology, especially the heroic legends of the national epic, the Kalevala.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Maurice Ravel",
+   "born": "3/7/1875",
+   "died": "12/28/1937",
+   "nationality": "French",
+   "profile": " A French composer, pianist and conductor. He is often associated with impressionism along with his elder contemporary Claude Debussy, although both composers rejected the term. In the 1920s and 1930s Ravel was internationally regarded as France's greatest living composer. \n Born to a music-loving family, Ravel attended France's premier music college, the Paris Conservatoire; he was not well regarded by its conservative establishment, whose biased treatment of him caused a scandal. After leaving the conservatoire Ravel found his own way as a composer, developing a style of great clarity, incorporating elements of baroque, neoclassicism and, in his later works, jazz. He liked to experiment with musical form, as in his best-known work, Boléro (1928), in which repetition takes the place of development. He made some orchestral arrangements of other composers' music, of which his 1922 version of Mussorgsky's Pictures at an Exhibition is the best known.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Gioacchino Rossini",
+   "born": "2/29/1792",
+   "died": "11/13/1868",
+   "nationality": "Italian",
+   "profile": "An Italian composer who wrote 39 operas as well as sacred music, chamber music, songs, and some instrumental and piano pieces. His best-known operas include the Italian comedies Il barbiere di Siviglia (The Barber of Seville) and La Cenerentola (Cinderella), and the French-language epics Moïse et Pharaon and Guillaume Tell (William Tell). A tendency for inspired, song-like melodies is evident throughout his scores, which led to the nickname \"The Italian Mozart\". \n Until his retirement in 1829, Rossini had been the most popular opera composer in history. He is quoted as joking, \"Give me the laundress' bill and I will even set that to music.\"",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Edvard Grieg",
+   "born": "6/15/1843",
+   "died": "9/4/1907",
+   "nationality": "Norvegian",
+   "profile": "Norwegian composer and pianist, born in Bergen, 15 June 1843, died 4 September 1907, also in Bergen. By borrowing rhythmic and melodic elements from norwegian folk music he created nationally romantic and patriotic music. Most famous are perhaps his compositions to the play \"Peer Gynt\" (written by Henrik Ibsen), which features songs as \"Morning Mood\" and \"In The Hall of The Mountain King\". Edvard Grieg is considered to be the greatest norwegian composer of all time.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Christoph Willibald Ritter von Gluck",
+   "born": "7/2/1714",
+   "died": "11/15/1787",
+   "nationality": "German",
+   "profile": "Was a composer of Italian and French opera in the early classical period. Born in the Upper Palatinate (now part of Germany) and raised in Bohemia,[1] he gained prominence at the Habsburg court at Vienna, where he brought about the practical reform of opera's dramaturgical practices that many intellectuals had been campaigning for over the years. With a series of radical new works in the 1760s, among them Orfeo ed Euridice and Alceste, he broke the stranglehold that Metastasian opera seria had enjoyed for much of the century.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Paul Hindemith",
+   "born": "11/16/1895",
+   "died": "12/28/1963",
+   "nationality": "German",
+   "profile": "German composer, violist, violinist, teacher and conductor. Notable compositions include his song cycle Das Marienleben (1923) and opera Mathis der Maler (1938). Hindemith's most popular work, both on record and in the concert hall, is probably the Symphonic Metamorphosis of Themes by Carl Maria von Weber, written in 1943.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Claudio Monteverdi",
+   "born": "5/15/1567",
+   "died": "11/29/1643",
+   "nationality": "Italian",
+   "profile": "Italian composer (mainly of madrigals and operas), gambist, and singer and Roman Catholic priest. Born in Cremona, 15 May 1567 (baptized); died in Venice, 29 November 1643. \n Monteverdi's work is often regarded as revolutionary and marked the transition from the Renaissance style to that of the Baroque period. He developed two individual styles of composition: the new basso continuo technique of the Baroque and the heritage of Renaissance polyphony. Enjoying fame in his lifetime, he wrote one of the earliest operas, L'Orfeo, which is still regularly performed.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Béla Bartók",
+   "born": "3/25/1881",
+   "died": "9/26/1945",
+   "nationality": "Hungarian",
+   "profile": "Teacher, ethnomusicologist, and pianist, Béla Bartók has come to be regarded as one of the most influential Modern composers of the twentieth century, along with Claude Debussy, Arnold Schoenberg, Igor Stravinsky, Paul Hindemith, and Anton Webern. His influence crossed borders, especially strong in postwar Eastern Europe, where the most talented of the new composers followed him, in France where his disciples included Oliver Messiaën and André Jolivet, and in South and Latin Americas. Schoenberg once confided to his student Oscar Levant that Bartók was the second greatest living composer.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "César Auguste Jean Guillaume Hubert Franck",
+   "born": "12/10/1822",
+   "died": "11/8/1890",
+   "nationality": "Belgian",
+   "profile": "He was born at Liège, in what is now Belgium (though at the time of his birth it was part of the United Kingdom of the Netherlands). He gave his first concerts there in 1834 and studied privately in Paris from 1835, where his teachers included Anton Reicha. After a brief return to Belgium, and a disastrous reception to an early oratorio Ruth, he moved to Paris, where he married and embarked on a career as teacher and organist. He gained a reputation as a formidable improviser, and travelled widely in France to demonstrate new instruments built by Aristide Cavaillé-Coll. \n In 1858 he became organist at Sainte-Clotilde, a position he retained for the rest of his life. He became professor at the Paris Conservatoire in 1872; he took French nationality, a requirement of the appointment. His pupils included Vincent d'Indy, Ernest Chausson, Louis Vierne, Charles Tournemire, Guillaume Lekeu and Henri Duparc. After acquiring the professorship Franck wrote several pieces that have entered the standard classical repertoire, including symphonic, chamber, and keyboard works.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Antonio Lucio Vivaldi",
+   "born": "3/4/1678",
+   "died": "7/28/1741",
+   "nationality": "Italian",
+   "profile": "Baroque composer, virtuoso violinist, teacher and cleric. Born in Venice, he is recognized as one of the greatest Baroque composers, and his influence during his lifetime was widespread across Europe. He is known mainly for composing many instrumental concertos, for the violin and a variety of other instruments, as well as sacred choral works and more than forty operas. His best-known work is a series of violin concertos known as The Four Seasons. \n Many of his compositions were written for the female music ensemble of the Ospedale della Pietà, a home for abandoned children where Vivaldi (who had been ordained as a Catholic priest) was employed from 1703 to 1715 and from 1723 to 1740. Vivaldi also had some success with expensive stagings of his operas in Venice, Mantua and Vienna. After meeting the Emperor Charles VI, Vivaldi moved to Vienna, hoping for preferment. However, the Emperor died soon after Vivaldi's arrival, and Vivaldi himself died less than a year later in poverty.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Georges Bizet",
+   "born": "10/25/1838",
+   "died": "6/3/1875",
+   "nationality": "French",
+   "profile": "Was a French composer of the romantic era. Best known for his operas in a career cut short by his early death, Bizet achieved few successes before his final work, Carmen, which has become one of the most popular and frequently performed works in the entire opera repertoire. \n During a brilliant student career at the Conservatoire de Paris, Bizet won many prizes, including the prestigious Prix de Rome in 1857. He was recognised as an outstanding pianist, though he chose not to capitalise on this skill and rarely performed in public. Returning to Paris after almost three years in Italy, he found that the main Parisian opera theatres preferred the established classical repertoire to the works of newcomers. His keyboard and orchestral compositions were likewise largely ignored; as a result, his career stalled, and he earned his living mainly by arranging and transcribing the music of others. Restless for success, he began many theatrical projects during the 1860s, most of which were abandoned. Neither of his two operas that reached the stage in this time—Les pêcheurs de perles and La jolie fille de Perth—were immediately successful.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Modest Mussorgsky",
+   "born": "3/21/1839",
+   "died": "3/28/1881",
+   "nationality": "Russian",
+   "profile": "A Russian composer, one of the group known as \"The Five\". He was an innovator of Russian music in the romantic period. He strove to achieve a uniquely Russian musical identity, often in deliberate defiance of the established conventions of Western music. \n Many of his works were inspired by Russian history, Russian folklore, and other nationalist themes. Such works include the opera Boris Godunov, the orchestral tone poem Night on Bald Mountain and the piano suite Pictures at an Exhibition. For many years Mussorgsky's works were mainly known in versions revised or completed by other composers. Many of his most important compositions have posthumously come into their own in their original forms, and some of the original scores are now also available.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Jean Philippe Rameau",
+   "born": "9/25/168",
+   "died": "9/12/1764",
+   "nationality": "French",
+   "profile": "One of the most important French composers and music theorists of the Baroque era. He replaced Jean-Baptiste Lully as the dominant composer of French opera and is also considered the leading French composer for the harpsichord of his time, alongside François Couperin. \n Little is known about Rameau's early years, and it was not until the 1720s that he won fame as a major theorist of music with his Treatise on Harmony (1722) and also in the following years as a composer of masterpieces for the harpsichord, which circulated throughout Europe. He was almost 50 before he embarked on the operatic career on which his reputation chiefly rests today. His debut, Hippolyte et Aricie (1733), caused a great stir and was fiercely attacked by the supporters of Lully's style of music for its revolutionary use of harmony. Nevertheless, Rameau's pre-eminence in the field of French opera was soon acknowledged, and he was later attacked as an \"establishment\" composer by those who favoured Italian opera during the controversy known as the Querelle des Bouffons in the 1750s. Rameau's music had gone out of fashion by the end of the 18th century, and it was not until the 20th that serious efforts were made to revive it. Today, he enjoys renewed appreciation with performances and recordings of his music ever more frequent.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Gabriel Fauré",
+   "born": "5/12/1845",
+   "died": "11/4/1924",
+   "nationality": "French",
+   "profile": "A French composer, organist, pianist and teacher. He was one of the foremost French composers of his generation, and his musical style influenced many 20th-century composers. Among his best-known works are his Pavane, Requiem, nocturnes for piano and the songs \"Après un rêve\" and \"Clair de lune\". Although his best-known and most accessible compositions are generally his earlier ones, Fauré composed many of his most highly regarded works in his later years, in a more harmonically and melodically complex style. \n Fauré's music has been described as linking the end of Romanticism with the modernism of the second quarter of the 20th century. When he was born, Chopin was still composing, and by the time of Fauré's death, jazz and the atonal music of the Second Viennese School were being heard. The Grove Dictionary of Music and Musicians, which describes him as the most advanced composer of his generation in France, notes that his harmonic and melodic innovations influenced the teaching of harmony for later generations. During the last twenty years of his life, he suffered from increasing deafness. In contrast with the charm of his earlier music, his works from this period are sometimes elusive and withdrawn in character, and at other times turbulent and impassioned.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Nikolai Rimsky-Korsakov",
+   "born": "3/18/184orsakov",
+   "died": "6/21/1908",
+   "nationality": "Russian",
+   "profile": "Was a Russian composer, and a member of the group of composers known as The Five. He was a master of orchestration. His best-known orchestral compositions—Capriccio Espagnol, the Russian Easter Festival Overture, and the symphonic suite Scheherazade—are staples of the classical music repertoire, along with suites and excerpts from some of his 15 operas. Scheherazade is an example of his frequent use of fairy tale and folk subjects. \n Rimsky-Korsakov believed, as did fellow composer Mily Balakirev and critic Vladimir Stasov, in developing a nationalistic style of classical music. This style employed Russian folk song and lore along with exotic harmonic, melodic and rhythmic elements in a practice known as musical orientalism, and eschewed traditional Western compositional methods. However, Rimsky-Korsakov appreciated Western musical techniques after he became a professor of musical composition, harmony and orchestration at the Saint Petersburg Conservatory in 1871. He undertook a rigorous three-year program of self-education and became a master of Western methods, incorporating them alongside the influences of Mikhail Glinka and fellow members of The Five. His techniques of composition and orchestration were further enriched by his exposure to the works of Richard Wagner.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Gaetano Donizetti",
+   "born": "11/29/1797",
+   "died": "4/8/1848",
+   "nationality": "Italian",
+   "profile": "He began his early musical education under several teachers, including the famous opera composer Simon Mayr, and later, in Bologna, under the renowned teacher Padre Stanislao Mattei. Donizetti's father insisted that his son return to Bergamo and support himself by giving music lessons, but Gaetano disliked the life of a music teacher and decided to enlist in the army. \n Donizetti also played an invaluable role in the development of Italian opera, planting the seeds that enabled opera to flourish in the latter half of the nineteenth century. Donizetti, to a much greater extent than Rossini and Bellini, was to exert a tremendous influence on the operas of Giuseppe Verdi. The composer, though, will always be best remembered for the rich musical catalogue of his own works; L'Elisir d'Amore, Lucia di Lammermoor, La Fille du Régiment, and Don Pasquale have never left the opera house, and the recently renewed interest in music of the bel canto period has led opera companies to bring new life to many of his other stage works.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Ralph Vaughan Williams",
+   "born": "10/12/1872",
+   "died": "8/26/1958",
+   "nationality": "English",
+   "profile": "His works include operas, ballets, chamber music, secular and religious vocal pieces and orchestral compositions including nine symphonies, written over nearly fifty years. Strongly influenced by Tudor music and English folk-song, his output marked a decisive break in British music from its German-dominated style of the 19th century. \n Vaughan Williams was born to a well-to-do family with strong moral views and a progressive social outlook. Throughout his life he sought to be of service to his fellow citizens, and believed in making music as available as possible to everybody. He wrote many works for amateur and student performance. He was musically a late developer, not finding his true voice until his late thirties; his studies in 1907–08 with the French composer Maurice Ravel helped him clarify the textures of his music and free it from Teutonic influences.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Bedřich Smetana",
+   "born": "3/2/1824",
+   "died": "5/12/1884",
+   "nationality": "Czech",
+   "profile": "A Czech composer who pioneered the development of a musical style which became closely identified with his country's aspirations to independent statehood. He is thus widely regarded in his homeland as the father of Czech music. Internationally he is best known for his opera The Bartered Bride and for the symphonic cycle Má vlast (My Homeland), which portrays the history, legends and landscape of the composer's native land. \n By the end of 1874, Smetana had become completely deaf but, freed from his theatre duties and the related controversies, he began a period of sustained composition that continued for almost the rest of his life. His contributions to Czech music were increasingly recognised and honoured, but a mental collapse early in 1884 led to his incarceration in an asylum and his subsequent death. Smetana's reputation as the founding father of Czech music has endured in his native country, where advocates have raised his status above that of his contemporaries and successors. However, relatively few of Smetana's works are in the international repertory, and most foreign commentators tend to regard Antonín Dvořák as a more significant Czech composer.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Johann Strauss Jr.",
+   "born": "10/25/1825",
+   "died": "6/3/1899",
+   "nationality": "Austrian",
+   "profile": "An Austrian composer of light music, particularly dance music and operettas. He composed over 500 waltzes, polkas, quadrilles, and other types of dance music, as well as several operettas and a ballet. In his lifetime, he was known as \"The Waltz King\", and was largely then responsible for the popularity of the waltz in Vienna during the 19th century. \n Strauss had two younger brothers, Josef and Eduard Strauss, who became composers of light music as well, although they were never as well known as their elder brother. Some of Johann Strauss' most famous works include \"The Blue Danube\", \"Kaiser-Walzer\", \"Tales from the Vienna Woods\", and the \"Tritsch-Tratsch-Polka\". Among his operettas, Die Fledermaus and Der Zigeunerbaron are the best known.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Carl Maria von Weber",
+   "born": "11/18/1786",
+   "died": "6/5/1826",
+   "nationality": "German",
+   "profile": "German composer, conductor, pianist, guitarist and critic, one of the first significant composers of the Romantic school. \n Weber's operas Der Freischütz, Euryanthe and Oberon greatly influenced the development of the Romantische Oper (Romantic opera) in Germany. Der Freischütz came to be regarded as the first German \"nationalist\" opera, Euryanthe developed the Leitmotif technique to an unprecedented degree, while Oberon may have influenced Mendelssohn's music for A Midsummer Night's Dream and, at the same time, revealed Weber's lifelong interest in the music of non-Western cultures. This interest was first manifested in Weber's incidental music for Schiller's translation of Gozzi's Turandot, for which he used a Chinese melody, making him the first Western composer to use an Asian tune that was not of the pseudo-Turkish kind popularized by Mozart and others. \n His operas influenced the work of later opera composers, especially in Germany, such as Marschner, Meyerbeer and Wagner, as well as several nationalist 19th-century composers such as Glinka. Homage has been paid to Weber by 20th-century composers such as Debussy, Stravinsky, Mahler (who completed Weber's unfinished comic opera Die drei Pintos and made revisions of Euryanthe and Oberon) and Hindemith (composer of the popular Symphonic Metamorphosis of Themes by Carl Maria von Weber). Weber also wrote music journalism and was interested in folksong, and learned lithography to engrave his own works.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Leoš Janáček",
+   "born": "7/3/1854",
+   "died": "8/12/1928",
+   "nationality": "Czech",
+   "profile": "A Czech composer, musical theorist, folklorist, publicist and teacher. He was inspired by Moravian and other Slavic folk music to create an original, modern musical style. \n Until 1895 he devoted himself mainly to folkloristic research and his early musical output was influenced by contemporaries such as Antonín Dvořák. His later, mature works incorporate his earlier studies of national folk music in a modern, highly original synthesis, first evident in the opera Jenůfa, which was premiered in 1904 in Brno. The success of Jenůfa (often called the \"Moravian national opera\") at Prague in 1916 gave Janáček access to the world's great opera stages. Janáček's later works are his most celebrated. They include operas such as Káťa Kabanová and The Cunning Little Vixen, the Sinfonietta, the Glagolitic Mass, the rhapsody Taras Bulba, two string quartets, and other chamber works. Along with Antonín Dvořák and Bedřich Smetana, he is considered one of the most important Czech composers.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "François Couperin",
+   "born": "11/10/1668",
+   "died": "9/11/1733",
+   "nationality": "French",
+   "profile": "Was a French Baroque composer, organist and harpsichordist. He was known as Couperin le Grand (\"Couperin the Great\") to distinguish him from other members of the musically talented Couperin family. \n Couperin was born into one of the best known musical families of Europe. His father Charles was organist at Church Saint-Gervais in Paris, a position previously occupied by Charles' brother Louis Couperin, a highly regarded keyboard virtuoso and composer whose career was cut short by an early death. As a boy, François must have received his first music lessons from his father. Unfortunately, Charles died in 1679. The church council at Saint-Gervais hired Michel Richard Delalande to serve as new organist, with the condition that François would replace him at age 18. Meanwhile, the boy was taken care of and taught by organist Jacques-Denis Thomelin, who served both at the court and at the famous church of St Jacques-de-la-Boucherie. According to a biography by Évrard Titon du Tillet, Thomelin treated the boy extremely well and became \"a second father\" to him. François's talent must have manifested itself quite early, since already by 1685 the church council agreed to provide him with a regular salary even though he had no formal contract.",
+   "audiosample": "sound.mp3"
+}, {
+   "name": "Alexander Borodin",
+   "born": "11/12/1833",
+   "died": "2/27/1887",
+   "nationality": "Russian",
+   "profile": "A Russian Romantic composer of Georgian origin, as well as a doctor and chemist. He was one of the prominent 19th century composers known as The Mighty Handful, a group dedicated to producing a uniquely Russian kind of classical music, rather than imitating earlier Western European models. \n Borodin is best known for his symphonies, his two string quartets, In the Steppes of Central Asia and his opera Prince Igor. Music from Prince Igor and his string quartets was later adapted for the US musical Kismet. A notable advocate of women's rights, Borodin was a promoter of education in Russia and founded the School of Medicine for Women in St. Petersburg.",
+   "audiosample": "sound.mp3"
+}]
