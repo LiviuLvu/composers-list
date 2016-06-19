@@ -2,25 +2,30 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>Composers List</title>
+		<title>Classical Composers</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.1.0/milligram.css">
 	</head>
 	<body>
-	<div class="container">
-		<h4>Classical Composers List</h4>
-		<!-- button to request data transfer -->
-		<button id="get-data">Get JSON data</button>
-		<!-- list to be populated with jQuery and manipulated with filter.js -->
-		<ul id="show-data">
-	    	<!-- display data from json file here-->
-		</ul>
-	</div>
-
-
-	<script   src="https://code.jquery.com/jquery-3.0.0.js"   integrity="sha256-jrPLZ+8vDxt2FnE1zvZXCkCcebI/C8Dt5xyaQBjxQIo="   crossorigin="anonymous"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.2.0/list.min.js"></script>
-	<script src="js/jsonTest.js"></script>
-</body>
+		<div class="container">
+			<h3>Famous Classical Composers</h3>
+			<!-- list to be populated with jQuery and manipulated with filter.js -->
+			<div id="users">
+				<button class="sort" data-sort="name">Sort by name</button>
+				<button class="sort" data-sort="born">Sort by birth date</button>
+				<button class="sort" data-sort="died">Sort by year of death</button>
+				<button class="sort" data-sort="nationality">Sort by nationality</button>
+				<div>
+					<input type="text" class="search" placeholder="Search">
+				</div>
+				<hr>
+				<ul class="list">
+					<!-- display data from json file here-->
+				</ul>
+			</div>
+		</div>
+		<script   src="https://code.jquery.com/jquery-3.0.0.js"   integrity="sha256-jrPLZ+8vDxt2FnE1zvZXCkCcebI/C8Dt5xyaQBjxQIo="   crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.2.0/list.min.js"></script>
+		<script src="js/jsonTest.js"></script>
+	</body>
 </html>
