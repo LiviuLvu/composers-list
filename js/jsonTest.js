@@ -2,11 +2,10 @@ $(document).ready(function() {
    $('#get-data').click(function() {
       var showData = $('#show-data');
 
-      $.getJSON('data/articles.json', function(data) {
-         console.log(data);
-
-         var items = data.articles.map(function(data) {
-            return data.name + ' - ' + data.city;
+      $.getJSON('data/composers.json', function(data) {
+         // how does map work?
+         var items = data.map(function(data) {
+            return data.name + ' - ' + data.born;
          });
          // removes dom elements and text content inside selected element
          showData.empty();
