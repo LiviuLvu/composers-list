@@ -4,14 +4,14 @@ $(document).ready(function() {
 
    $.getJSON('data/composers.json', function(data) {
       // Using list.js below
-      // Define value names
-      var options = {
-         valueNames: ['name', 'born', 'died', 'nationality'],
-         item: '<li><h5 class="name"></h5><span class="born"></span> - <span class="died"></span> <p class="nationality"></p> </li>'
-      };
 
       var values = data;
-
+      // Define value names
+      var options = {
+         valueNames: ['name', 'born', 'died', 'nationality', 'profile'],
+         plugins: [ListFuzzySearch()],
+         item: '<li><h5 class="name"></h5><span class="born"></span> - <span class="died"></span> <p class="nationality"></p> <span class="profile"></span></li>'
+      };
       // Init list
       var userList = new List('users', options, values);
 
