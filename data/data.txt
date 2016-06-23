@@ -1,0 +1,6 @@
+mark jhones  candy	20	10
+mark jhones  strawberry	150	6
+mark jhones  berries	50	4
+berta wilson  candy	20	4
+berta wilson  apples	10	3
+berta wilson  berries  50	2
