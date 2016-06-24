@@ -7,27 +7,16 @@
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.1.0/milligram.css">
 	</head>
 	<body>
-
-		<div class="container">
-			<p>Testing audio tag</p>
-			<audio controls>
-				<!-- <source src="audio/mozart-eine-kleine-nachtmusik.mp3" type="audio/mpeg"> -->
-				<source src="audio/mozart-eine-kleine-nachtmusik.ogg" type="audio/ogg">
-				Audio not supported, please update browser
-			</audio>
-		</div>
 		<div class="container">
 			<h3>Famous Classical Composers</h3>
 			<!-- list to be populated with jQuery and manipulated with filter.js -->
 			<div id="users">
-
 				<button class="sort" data-sort="name">Sort by name</button>
 				<button class="sort" data-sort="born">Sort by birth date</button>
 				<button class="sort" data-sort="died">Sort by year of death</button>
 				<button class="sort" data-sort="nationality">Sort by nationality</button>
-				<div>
-					<input type="text" class="search fuzzy-search" placeholder="Search">
-				</div>
+				<input type="text" class="search fuzzy-search" placeholder="Search">
+
 				<hr>
 				<ul class="list">
 					<!-- display data from json file here-->
