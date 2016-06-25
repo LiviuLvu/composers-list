@@ -19,8 +19,18 @@ $(document).ready(function() {
       };
       // initialize list
       var userList = new List('users', options, values);
+      // call emptyListMsg function when list has been updated
+      userList.on('updated', emptyListMsg);
 
    });
    // waiting message when data is loading slow
    showData.text('Loading the JSON file.');
 });
+// show error message if the search yelds no result
+function emptyListMsg() {
+   if ($('ul.list').is(':empty')) {
+      $('ul.list').append('<p id="emptySearch">Sorry, no results found.</p>');
+   } else {
+      $('#emptySearch').remove();
+   }
+}
