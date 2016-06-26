@@ -1,4 +1,3 @@
-// test
 $(document).ready(function() {
    // populate empty list in the html
    var showData = $('#show-data');
@@ -53,3 +52,12 @@ function emptyListMsg() {
       $('#emptySearch').remove();
    }
 }
+// pause playing audio elements if another is started
+document.addEventListener('play', function(e) {
+   var audios = document.getElementsByTagName('audio');
+   for (var i = 0, len = audios.length; i < len; i++) {
+      if (audios[i] != e.target) {
+         audios[i].pause();
+      }
+   }
+}, true);
