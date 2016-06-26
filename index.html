@@ -9,14 +9,33 @@
 	<body>
 		<div class="container">
 			<h3>Famous Classical Composers</h3>
-			<!-- list to be populated with jQuery and manipulated with filter.js -->
+			<!-- the list js container with users class -->
 			<div id="users">
 				<button class="sort" data-sort="name">Sort by name</button>
 				<button class="sort" data-sort="born">Sort by birth date</button>
 				<button class="sort" data-sort="died">Sort by year of death</button>
 				<button class="sort" data-sort="nationality">Sort by nationality</button>
-				<input type="text" class="search fuzzy-search" placeholder="Search">
-
+				<!-- filter by nationality -->
+				<form>
+					<label>Filter Nationality</label>
+					<select class="filterNationality" name="nationality">
+						<option value="all">Show All</option>
+						<option value="austrian">Austrian</option>
+						<option value="belgian">Belgian</option>
+						<option value="czech">Czech</option>
+						<option value="english">English</option>
+						<option value="finnish">Finnish</option>
+						<option value="french">French</option>
+						<option value="german">German</option>
+						<option value="hungarian">Hungarian</option>
+						<option value="italian">Italian</option>
+						<option value="norvegian">Norvegian</option>
+						<option value="polish">Polish</option>
+						<option value="russian">Russian</option>
+					</select>
+				</form>
+				<input type="text" class="search fuzzy-search" placeholder="Search by Name, Date or Nationality">
+				<!-- list to be populated with jQuery and manipulated with filter.js -->
 				<hr>
 				<ul class="list">
 					<!-- display data from json file here-->

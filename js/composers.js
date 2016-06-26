@@ -4,7 +4,6 @@ $(document).ready(function() {
 
    $.getJSON('data/composers.json', function(data) {
       // Using list.js below
-
       var values = data;
       // Define value names
       var options = {
@@ -21,6 +20,25 @@ $(document).ready(function() {
       var userList = new List('users', options, values);
       // call emptyListMsg function when list has been updated
       userList.on('updated', emptyListMsg);
+
+      // filter by nationality
+      // trigger this code when changing the select option
+      $('.filterNationality').change(function(event) {
+         // get the input value from select
+         var values_nationality = $('.filterNationality option:selected').text();
+         console.log(values_nationality);
+
+         userList.filter(function(item) {
+            if (item.values().nationality == values_nationality) {
+               return true;
+            } else if (values_nationality == 'Show All') {
+               // clear filter if 'all' option is selected
+               return true;
+            }
+            // not sure if this is needed, the code also works without it
+            return false;
+         });
+      });
 
    });
    // waiting message when data is loading slow
