@@ -1,14 +1,14 @@
-# Classical Composers List
-Sortable, searchable list of classical composers.  
+## Classical Composers List
+Sortable, searchable list of classical composers.
 
 Loading existing data with Jquerry from a .json file
 The data manipulation will be made using list.js
 
 Preview Image:
-![image](https://github.com/LiviuLvu/composers-list/blob/master/composers-list%2Cjpg.JPG)  
+![image](https://github.com/LiviuLvu/composers-list/blob/master/composers-list.jpg)
 
 
-test app online here:  
-http://lvudesign.com/composers-list/  
+test app online here:
+http://lvudesign.com/composers-list/
 
-#### Work in progress  
+#### Work in progress
