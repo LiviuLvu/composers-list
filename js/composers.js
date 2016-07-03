@@ -9,12 +9,16 @@ $(document).ready(function() {
       var options = {
          valueNames: ['name', 'born', 'died', 'nationality', 'profile', { name: 'image', attr: 'src' }, { name: 'audiosample', attr: 'src' }],
          plugins: [ListFuzzySearch()],
-         item: '<li><h5 class="name"></h5><span class="born">' +
-            '</span> - <span class="died"></span>' +
-            '<p class="nationality"></p> <img class="image" src="img/alexander-borodin.jpg" alt="Composer Image">' +
+         item: '<li class="listItem row">' +
+            '<img class="image" src="img/alexander-borodin.jpg" alt="Composer Image">' +
+            '<div>' +
             '<audio controls class="audiosample" src="audio/mozart-eine-kleine-nachtmusik.mp3" type="audio/mpeg">' +
             'Audio not supported, please update browser</audio>' +
-            '<p class="profile"></p></li>'
+            '<h5 class="name"></h5><span class="born">' +
+            '</span> - <span class="died"></span>' +
+            '<p class="nationality"></p>' +
+            '</div>' +
+            '<p class="profile column"></p></li>'
       };
       // initialize list
       var userList = new List('users', options, values);
@@ -26,7 +30,6 @@ $(document).ready(function() {
       $('.filterNationality').change(function(event) {
          // get the input value from select
          var values_nationality = $('.filterNationality option:selected').text();
-         console.log(values_nationality);
 
          userList.filter(function(item) {
             if (item.values().nationality == values_nationality) {
