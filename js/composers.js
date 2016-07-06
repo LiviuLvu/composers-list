@@ -12,11 +12,11 @@ $(document).ready(function() {
          item: '<li class="listItem row">' +
             '<img class="image" src="img/alexander-borodin.jpg" alt="Composer Image">' +
             '<div>' +
-            '<audio controls class="audiosample" src="audio/mozart-eine-kleine-nachtmusik.mp3" type="audio/mpeg">' +
-            'Audio not supported, please update browser</audio>' +
             '<h5 class="name"></h5><span class="born">' +
             '</span> - <span class="died"></span>' +
             '<p class="nationality"></p>' +
+            '<a href="" class="playLink">Audio Sample</a> ' +
+            '<audio class="audiosample"  id="audiosample" src="audio/mozart-eine-kleine-nachtmusik.mp3" type="audio/mpeg">Audio not supported, please update browser</audio>' +
             '</div>' +
             '<p class="profile column"></p></li>'
       };
@@ -42,7 +42,16 @@ $(document).ready(function() {
             return false;
          });
       });
-
+      // when clicked on Link, play() on next elem, wich is audio
+      $('.playLink').on('click', function(event) {
+         event.preventDefault();
+         var audioTag = $(this).next()[0];
+         if (audioTag.paused) {
+            audioTag.play();
+         } else {
+            audioTag.pause();
+         }
+      });
    });
    // waiting message when data is loading slow
    showData.text('Loading the JSON file.');
@@ -64,3 +73,17 @@ document.addEventListener('play', function(e) {
       }
    }
 }, true);
+
+
+
+// on click play audio
+function test() {
+   var audio = document.getElementsById('audiosample');
+   if (audio.paused) {
+      audio.play();
+   } else {
+      // reset time to 0 to be able to start again from the beginning
+      audio.pause();
+      audio.currentTime = 0;
+   }
+}
