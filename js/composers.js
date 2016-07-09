@@ -11,14 +11,17 @@ $(document).ready(function() {
          plugins: [ListFuzzySearch()],
          item: '<li class="listItem row">' +
             '<img class="image" src="img/alexander-borodin.jpg" alt="Composer Image">' +
-            '<div>' +
-            '<h5 class="name"></h5><span class="born">' +
-            '</span> - <span class="died"></span>' +
-            '<p class="nationality"></p>' +
-            '<a href="" class="playLink">Audio Sample</a> ' +
+            // text for profile details
+            '<div class="column">' +
+            '<h5 class="name row"></h5>' +
+            '<div class="row"><p class="born"></p><p class="spacer">-</p><p class="died"></p></div>' +
+            '<p class="nationality row"></p>' +
+            '<div class="row"><small><a href="" class="playLink">Audio Sample</a></small>' +
             '<audio class="audiosample"  id="audiosample" src="audio/mozart-eine-kleine-nachtmusik.mp3" type="audio/mpeg">Audio not supported, please update browser</audio>' +
-            '</div>' +
-            '<p class="profile column"></p></li>'
+            '<small class="column"><a href="" class="moreInfo">Short Introduction</a></small></div>' +
+            // detailed profile description - hidden
+            '<p class="profile hidden"></p></li>' +
+            '</div>'
       };
       // initialize list
       var userList = new List('users', options, values);
@@ -51,6 +54,13 @@ $(document).ready(function() {
          } else {
             audioTag.pause();
          }
+      });
+      // show profile info
+      $('.moreInfo').on('click', function(event) {
+         event.preventDefault();
+         var profile = $(this).next();
+         profile.toggleClass('hidden');
+         console.log(profile);
       });
    });
    // waiting message when data is loading slow
