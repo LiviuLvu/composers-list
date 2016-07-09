@@ -1,51 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<title>Classical Composers</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.1.0/milligram.css">
-	</head>
-	<body>
-		<div class="container">
-			<h3>Famous Classical Composers</h3>
-			<!-- the list js container with users class -->
-			<div id="users">
-				<button class="sort" data-sort="name">Sort by name</button>
-				<button class="sort" data-sort="born">Sort by birth date</button>
-				<button class="sort" data-sort="died">Sort by year of death</button>
-				<button class="sort" data-sort="nationality">Sort by nationality</button>
-				<!-- filter by nationality -->
-				<form>
-					<label>Filter Nationality</label>
-					<select class="filterNationality" name="nationality">
-						<option value="all">Show All</option>
-						<option value="austrian">Austrian</option>
-						<option value="belgian">Belgian</option>
-						<option value="czech">Czech</option>
-						<option value="english">English</option>
-						<option value="finnish">Finnish</option>
-						<option value="french">French</option>
-						<option value="german">German</option>
-						<option value="hungarian">Hungarian</option>
-						<option value="italian">Italian</option>
-						<option value="norvegian">Norvegian</option>
-						<option value="polish">Polish</option>
-						<option value="russian">Russian</option>
-					</select>
-				</form>
-				<input type="text" class="search fuzzy-search" placeholder="Search by Name, Date or Nationality">
-				<!-- list to be populated with jQuery and manipulated with filter.js -->
-				<hr>
-				<ul class="list">
-					<!-- display data from json file here-->
-				</ul>
 
-			</div>
-		</div>
-		<script src="https://code.jquery.com/jquery-3.0.0.js"   integrity="sha256-jrPLZ+8vDxt2FnE1zvZXCkCcebI/C8Dt5xyaQBjxQIo="   crossorigin="anonymous"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.2.0/list.js"></script>
-		<script src="js/list.fuzzysearch.min.js"></script>
-		<script src="js/composers.js"></script>
-	</body>
+<head>
+   <meta charset="utf-8">
+   <title>Classical Composers</title>
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css">
+   <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+   <div class="all-container">
+      <h3>Famous Classical Composers</h3>
+      <!-- the list js container with users class -->
+      <div id="users">
+         <button class="sort button button-primary" data-sort="name">Sort by name</button>
+         <button class="sort button button-primary" data-sort="born">Sort by birth date</button>
+         <button class="sort button button-primary" data-sort="died">Sort by year of death</button>
+         <button class="sort button button-primary" data-sort="nationality">Sort by nationality</button>
+         <!-- filter by nationality -->
+         <form>
+            <select class="filterNationality" name="nationality">
+               <option value="all">Show All</option>
+               <option value="austrian">Austrian</option>
+               <option value="belgian">Belgian</option>
+               <option value="czech">Czech</option>
+               <option value="english">English</option>
+               <option value="finnish">Finnish</option>
+               <option value="french">French</option>
+               <option value="german">German</option>
+               <option value="hungarian">Hungarian</option>
+               <option value="italian">Italian</option>
+               <option value="norvegian">Norvegian</option>
+               <option value="polish">Polish</option>
+               <option value="russian">Russian</option>
+            </select>
+            <input type="text" class="search fuzzy-search" placeholder="Search by Name, Date or Nationality">
+         </form>
+         <!-- list to be populated with jQuery and manipulated with filter.js -->
+         <ul class="list">
+            <!-- display data from json file here-->
+         </ul>
+      </div>
+   </div>
+   <script src="https://code.jquery.com/jquery-3.0.0.js" integrity="sha256-jrPLZ+8vDxt2FnE1zvZXCkCcebI/C8Dt5xyaQBjxQIo=" crossorigin="anonymous"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.2.0/list.js"></script>
+   <script src="js/list.fuzzysearch.min.js"></script>
+   <script src="js/composers.js"></script>
+</body>
+
 </html>

@@ -10,7 +10,7 @@ module.exports = function(grunt) {
          },
          options: {
             server: {
-               baseDir: "g:/node/http-server/public/GitHub/composers-list/"
+               baseDir: "D:/codingprojects/GitHub/composers-list/"
             }
          }
       }
