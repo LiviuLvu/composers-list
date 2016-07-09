@@ -16,12 +16,14 @@ $(document).ready(function() {
             '<h5 class="name row"></h5>' +
             '<div class="row"><p class="born"></p><p class="spacer">-</p><p class="died"></p></div>' +
             '<p class="nationality row"></p>' +
-            '<div class="row"><small><a href="" class="playLink">Audio Sample</a></small>' +
+            '<div class="row"><small><a href="" class="playLink">Audio Sample</a>' +
             '<audio class="audiosample"  id="audiosample" src="audio/mozart-eine-kleine-nachtmusik.mp3" type="audio/mpeg">Audio not supported, please update browser</audio>' +
-            '<small class="column"><a href="" class="moreInfo">Short Introduction</a></small></div>' +
+            '</small>' +
+            '<small class="column"><a href="" class="moreInfo">Short Introduction</a></small>' +
+            '</div>' +
+            '</div>' +
             // detailed profile description - hidden
-            '<p class="profile hidden"></p></li>' +
-            '</div>'
+            '<p class="profile hidden"></p></li>'
       };
       // initialize list
       var userList = new List('users', options, values);
@@ -58,9 +60,12 @@ $(document).ready(function() {
       // show profile info
       $('.moreInfo').on('click', function(event) {
          event.preventDefault();
-         var profile = $(this).next();
-         profile.toggleClass('hidden');
-         console.log(profile);
+         // related profile tag to clicked link
+         var clickedProfile = $(this).closest('li').children('p');
+         // hide previously visible profile info
+         $('.profile').not(clickedProfile).addClass('hidden');
+         // toggle class on the desired profile
+         clickedProfile.toggleClass('hidden');
       });
    });
    // waiting message when data is loading slow
@@ -75,25 +80,11 @@ function emptyListMsg() {
    }
 }
 // pause playing audio elements if another is started
-document.addEventListener('play', function(e) {
+document.addEventListener('play', function(element) {
    var audios = document.getElementsByTagName('audio');
    for (var i = 0, len = audios.length; i < len; i++) {
-      if (audios[i] != e.target) {
+      if (audios[i] != element.target) {
          audios[i].pause();
       }
    }
 }, true);
-
-
-
-// on click play audio
-function test() {
-   var audio = document.getElementsById('audiosample');
-   if (audio.paused) {
-      audio.play();
-   } else {
-      // reset time to 0 to be able to start again from the beginning
-      audio.pause();
-      audio.currentTime = 0;
-   }
-}
