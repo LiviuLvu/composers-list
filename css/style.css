@@ -87,11 +87,11 @@ p {
 li {
     list-style-type: none;
     background: white;
+    padding: 5px;
 }
 
 li:not(:last-child) {
     margin-right: 5px;
-    padding: 5px;
 }
 
 input,
