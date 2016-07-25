@@ -3,7 +3,7 @@ $(document).ready(function() {
     var showData = $('#show-data');
 
     $.getJSON('data/composers.json', function(data) {
-        // Using list.js below
+        // Using list.js below.
         var values = data;
         // Define value names
         var options = {
