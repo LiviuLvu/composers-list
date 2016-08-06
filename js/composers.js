@@ -13,7 +13,7 @@ $(document).ready(function() {
                 '<img class="image" src="img/alexander-borodin.jpg" alt="Composer Image">' +
                 // text for introduction details
                 '<div>' +
-                '<h6 class="name "></h6>' +
+                '<h6 class="name"></h6>' +
                 '<div><p class="born"></p><p class="dash-spacer">-</p><p class="died"></p></div>' +
                 '<p class="nationality "></p>' +
                 '<div><small><a href="" class="playLink">Audio Sample</a>' +
@@ -65,19 +65,24 @@ $(document).ready(function() {
         // show introduction info
         $('.showIntro').on('click', function(event) {
             event.preventDefault();
-            // related introduction tag to clicked link
-            var clickedintroduction = $(this).closest('li').children('div.introduction-backgroundCover');
-            // hide previously visible introduction info
-            // $('div.introduction-backgroundCover').not(clickedintroduction).addClass('hidden');
-            // toggle class on the desired introduction
-            $('body').addClass('noScroll');
-            clickedintroduction.toggleClass('hidden');
+            // related introduction tag to this clicked link
+            var clickedintroduction = $(this).closest('li').children('.introduction-backgroundCover');
 
+            // name of composer
+            var listName = $(this).closest('li').find('.name').text();
+            var popupName = $(this).closest('li').find('.introduction-name');
+            // copy listName of composer to popupName title
+            popupName.text(listName);
+
+            $('body').addClass('noScroll');
+            // toggle class on the desired introduction
+            clickedintroduction.toggleClass('hidden');
         });
+
         // hide introduction info
         $('.closePopup').on('click', function(event) {
             event.preventDefault();
-            var openedModal = $(this).closest('div.introduction-backgroundCover');
+            var openedModal = $(this).closest('.introduction-backgroundCover');
             openedModal.toggleClass('hidden');
             $('body').removeClass('noScroll');
         });
