@@ -25,7 +25,7 @@ $(document).ready(function() {
                 // detailed introduction description - hidden
                 '<div class="hidden introduction-backgroundCover">' +
                 '<div class="introduction-container">' +
-                '<h5 class="introduction-name"></h5>' +
+                '<h4 class="introduction-name">Name of Composer</h4>' +
                 '<p class="introduction"></p><a href="" class="closePopup">Close</a></div>' +
                 '</div>' +
                 '</li>'
@@ -70,17 +70,21 @@ $(document).ready(function() {
             // hide previously visible introduction info
             // $('div.introduction-backgroundCover').not(clickedintroduction).addClass('hidden');
             // toggle class on the desired introduction
+            $('body').addClass('noScroll');
             clickedintroduction.toggleClass('hidden');
+
         });
         // hide introduction info
         $('.closePopup').on('click', function(event) {
             event.preventDefault();
             var openedModal = $(this).closest('div.introduction-backgroundCover');
             openedModal.toggleClass('hidden');
+            $('body').removeClass('noScroll');
         });
         // close when clicking on transparent gray area
         $('.introduction-backgroundCover').on('click', function(event) {
             $(this).toggleClass('hidden');
+            $('body').removeClass('noScroll');
         });
         $(".introduction-container").click(function(e) {
             e.stopPropagation();
