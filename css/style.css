@@ -26,11 +26,6 @@ a {
     display: inline-block;
 }
 
-.introduction {
-    overflow-y: auto;
-    overflow-x: hidden;
-}
-
 .hidden {
     display: none;
 }
@@ -98,15 +93,18 @@ li:not(:last-child) {
 
 input,
 select {
-    width: 45%;
+    width: 49%;
+    min-width: 240px;
     display: inline-block;
 }
 
 .introduction-container {
+    height: 80%;
     padding: 40px;
-    margin: 10%;
-    margin-top: 2%;
+    max-width: 850px;
+    margin: auto;
     background: white;
+    text-align: left;
 }
 
 div .introduction-backgroundCover {
@@ -116,6 +114,12 @@ div .introduction-backgroundCover {
     width: 100%;
     height: 100%;
     background: rgba(0, 0, 0, .6);
+}
+
+.introduction {
+    max-height: 80%;
+    overflow-y: scroll;
+    overflow: auto;
 }
 
 @media screen and (min-width: 860px) {
@@ -131,7 +135,12 @@ div .introduction-backgroundCover {
     }
     .introduction-container {
         margin: 0;
+        padding: 12px;
+        height: 90%;
+    }
+    .introduction {
         max-height: 80%;
+        overflow: hidden;
         overflow-y: scroll;
     }
 }
@@ -141,5 +150,4 @@ div .introduction-backgroundCover {
 
 .noScroll {
     overflow: hidden;
-    position: fixed;
 }
