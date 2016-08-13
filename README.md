@@ -6,9 +6,3 @@ The data manipulation will be made using list.js
 
 Preview Image:
 ![image](https://github.com/LiviuLvu/composers-list/blob/master/composers-list.jpg)
-
-
-test app online here:
-http://lvudesign.com/composers-list/
-
-#### Work in progress
