@@ -1,8 +1,9 @@
 ## Classical Composers List  
 Sortable, searchable list of classical composers.  
 
-Loading existing data with Jquerry from a .json file  
-The data manipulation will be made using list.js  
+Can search by name, date, birth, date, nationality.  
+Fuzzy search is implemented with list.js  
+Loading existing data with ajax jQuerry from a .json file  
 
 Preview Image:  
 ![image](https://github.com/LiviuLvu/composers-list/blob/gh-pages/composers-list.jpg)  
